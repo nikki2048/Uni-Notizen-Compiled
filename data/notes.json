@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1648394604561,
-      "created": 1648394604561,
+      "updated": 1648395203659,
+      "created": 1648395203659,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -34,7 +34,29 @@
         "fsPath": "vault"
       },
       "contentHash": "cd4f657be32f848a46a0cbac62422bb1",
-      "links": [],
+      "links": [
+        {
+          "from": {
+            "fname": "sem1",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 713
+            },
+            "end": {
+              "line": 10,
+              "column": 37,
+              "offset": 749
+            },
+            "indent": []
+          },
+          "value": "root"
+        }
+      ],
       "anchors": {
         "welcome-to-dendron": {
           "type": "header",
@@ -71,8 +93,36 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "d52f13398dba63ffb5f1a6317102a96b",
-      "links": [],
+      "contentHash": "d967668e56c4c3608d879f06857641eb",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "sem1",
+            "id": "rrvywgg63lku8sgz0i8m0mk",
+            "vaultName": "vault"
+          },
+          "value": "root",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 713
+            },
+            "end": {
+              "line": 10,
+              "column": 37,
+              "offset": 749
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "root",
+            "anchorHeader": "welcome-to-dendron:#lookup"
+          }
+        }
+      ],
       "anchors": {
         "herzlich-willkommen-im-ersten-semester": {
           "type": "header",
@@ -86,7 +136,7 @@
           "type": "header",
           "text": "Mathe",
           "value": "mathe",
-          "line": 10,
+          "line": 18,
           "column": 0,
           "depth": 1
         }
@@ -113,7 +163,29 @@
         "fsPath": "vault"
       },
       "contentHash": "cd4f657be32f848a46a0cbac62422bb1",
-      "links": [],
+      "links": [
+        {
+          "from": {
+            "fname": "sem1",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 713
+            },
+            "end": {
+              "line": 10,
+              "column": 37,
+              "offset": 749
+            },
+            "indent": []
+          },
+          "value": "root"
+        }
+      ],
       "anchors": {
         "welcome-to-dendron": {
           "type": "header",
@@ -156,7 +228,29 @@
       "fsPath": "vault"
     },
     "contentHash": "cd4f657be32f848a46a0cbac62422bb1",
-    "links": [],
+    "links": [
+      {
+        "from": {
+          "fname": "sem1",
+          "vaultName": "vault"
+        },
+        "type": "backlink",
+        "position": {
+          "start": {
+            "line": 10,
+            "column": 1,
+            "offset": 713
+          },
+          "end": {
+            "line": 10,
+            "column": 37,
+            "offset": 749
+          },
+          "indent": []
+        },
+        "value": "root"
+      }
+    ],
     "anchors": {
       "welcome-to-dendron": {
         "type": "header",
