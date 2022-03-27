@@ -29,7 +29,8 @@
   },
   "site": {
     "siteHierarchies": [
-      "root"
+      "1-semester",
+      "2-semester"
     ],
     "siteRootDir": ".next/out",
     "siteUrl": "https://uni.ngoerlitz.de"
@@ -112,7 +113,8 @@
     "copyAssets": true,
     "siteHierarchies": [
       "1-semester",
-      "2-semester"
+      "2-semester",
+      "tags"
     ],
     "writeStubs": false,
     "siteRootDir": "docs",

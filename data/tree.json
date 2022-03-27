@@ -6,7 +6,40 @@
       "icon": null,
       "hasTitleNumberOutlined": false,
       "vaultName": "1-semester",
-      "children": []
+      "children": [
+        {
+          "key": "mq9fyqptdbajmovsjm6pszf",
+          "title": "Analysis für Informatiker",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "1-semester",
+          "children": []
+        },
+        {
+          "key": "66k2himygj99xw3q5d3t3lv",
+          "title": "Diskrete Strukturen",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "1-semester",
+          "children": []
+        },
+        {
+          "key": "4jjxr9kns8s4x6n09sxso0t",
+          "title": "Programmierung",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "1-semester",
+          "children": []
+        },
+        {
+          "key": "61na7xsawgy96whjhox0nrj",
+          "title": "Technische Informatik",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "1-semester",
+          "children": []
+        }
+      ]
     },
     {
       "key": "bkbck58vovjx3bd1qg668zd",
@@ -40,14 +73,48 @@
           "children": []
         }
       ]
+    },
+    {
+      "key": "3ath607ojiolcjzk5cmg6l9",
+      "title": "Tags",
+      "icon": "numberOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "2-semester",
+      "navExclude": true,
+      "children": [
+        {
+          "key": "09msyv4nqrj7q47yztxxuez",
+          "title": "My",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": true,
+          "vaultName": "2-semester",
+          "children": [
+            {
+              "key": "rc9pm8hdj0p5n222kppsn6n",
+              "title": "Example",
+              "icon": null,
+              "hasTitleNumberOutlined": true,
+              "vaultName": "2-semester",
+              "children": []
+            }
+          ]
+        }
+      ]
     }
   ],
   "child2parent": {
     "403": null,
+    "3ath607ojiolcjzk5cmg6l9": null,
+    "09msyv4nqrj7q47yztxxuez": "3ath607ojiolcjzk5cmg6l9",
+    "rc9pm8hdj0p5n222kppsn6n": "09msyv4nqrj7q47yztxxuez",
     "bkbck58vovjx3bd1qg668zd": null,
     "t864pvufdip3who00ykyeci": "bkbck58vovjx3bd1qg668zd",
     "38b5ozlq96v6a7xyn1a2ajx": "bkbck58vovjx3bd1qg668zd",
     "bwonefjmj0ciwjxzh0v1xwu": "bkbck58vovjx3bd1qg668zd",
-    "eymm2y1n3gxscio9qsjx252": null
+    "eymm2y1n3gxscio9qsjx252": null,
+    "61na7xsawgy96whjhox0nrj": "eymm2y1n3gxscio9qsjx252",
+    "4jjxr9kns8s4x6n09sxso0t": "eymm2y1n3gxscio9qsjx252",
+    "66k2himygj99xw3q5d3t3lv": "eymm2y1n3gxscio9qsjx252",
+    "mq9fyqptdbajmovsjm6pszf": "eymm2y1n3gxscio9qsjx252"
   }
 }
