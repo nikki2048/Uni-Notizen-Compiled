@@ -108,7 +108,7 @@
       "description": "Personal Knowledge Space"
     },
     "github": {
-      "enableEditLink": true,
+      "enableEditLink": false,
       "editLinkText": "Edit this page on GitHub",
       "editBranch": "main",
       "editViewMode": "tree"
