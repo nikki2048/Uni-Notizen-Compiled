@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1648393377010,
-      "created": 1648393377010,
+      "updated": 1648394604561,
+      "created": 1648394604561,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -53,8 +53,46 @@
           "depth": 2
         }
       },
-      "children": [],
+      "children": [
+        "rrvywgg63lku8sgz0i8m0mk"
+      ],
       "parent": null,
+      "data": {}
+    },
+    "rrvywgg63lku8sgz0i8m0mk": {
+      "id": "rrvywgg63lku8sgz0i8m0mk",
+      "title": "1. Semester",
+      "desc": "",
+      "updated": 1648394399882,
+      "created": 1648394399882,
+      "custom": {},
+      "fname": "sem1",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "d52f13398dba63ffb5f1a6317102a96b",
+      "links": [],
+      "anchors": {
+        "herzlich-willkommen-im-ersten-semester": {
+          "type": "header",
+          "text": "Herzlich Willkommen im ersten Semester",
+          "value": "herzlich-willkommen-im-ersten-semester",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        },
+        "mathe": {
+          "type": "header",
+          "text": "Mathe",
+          "value": "mathe",
+          "line": 10,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "15pikbcv325cmtfxo6mul0b",
       "data": {}
     }
   },
@@ -94,7 +132,9 @@
           "depth": 2
         }
       },
-      "children": [],
+      "children": [
+        "rrvywgg63lku8sgz0i8m0mk"
+      ],
       "parent": null,
       "data": {},
       "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)\n"
@@ -135,7 +175,9 @@
         "depth": 2
       }
     },
-    "children": [],
+    "children": [
+      "rrvywgg63lku8sgz0i8m0mk"
+    ],
     "parent": null,
     "data": {},
     "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)\n"
