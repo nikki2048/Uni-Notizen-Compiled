@@ -1,18 +1,42 @@
 {
   "roots": [
     {
-      "key": "15pikbcv325cmtfxo6mul0b",
-      "title": "Root",
+      "key": "eymm2y1n3gxscio9qsjx252",
+      "title": "1. Semester",
       "icon": null,
       "hasTitleNumberOutlined": false,
-      "vaultName": "vault",
+      "vaultName": "1-semester",
+      "children": []
+    },
+    {
+      "key": "bkbck58vovjx3bd1qg668zd",
+      "title": "2. Semester",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "2-semester",
       "children": [
         {
-          "key": "rrvywgg63lku8sgz0i8m0mk",
-          "title": "1. Semester",
+          "key": "bwonefjmj0ciwjxzh0v1xwu",
+          "title": "Betriebssysteme und Systemsoftware",
           "icon": null,
           "hasTitleNumberOutlined": false,
-          "vaultName": "vault",
+          "vaultName": "2-semester",
+          "children": []
+        },
+        {
+          "key": "38b5ozlq96v6a7xyn1a2ajx",
+          "title": "Datenstrukturen und Algorithmen",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "2-semester",
+          "children": []
+        },
+        {
+          "key": "t864pvufdip3who00ykyeci",
+          "title": "Lineare Algebra",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "2-semester",
           "children": []
         }
       ]
@@ -20,7 +44,10 @@
   ],
   "child2parent": {
     "403": null,
-    "15pikbcv325cmtfxo6mul0b": null,
-    "rrvywgg63lku8sgz0i8m0mk": "15pikbcv325cmtfxo6mul0b"
+    "bkbck58vovjx3bd1qg668zd": null,
+    "t864pvufdip3who00ykyeci": "bkbck58vovjx3bd1qg668zd",
+    "38b5ozlq96v6a7xyn1a2ajx": "bkbck58vovjx3bd1qg668zd",
+    "bwonefjmj0ciwjxzh0v1xwu": "bkbck58vovjx3bd1qg668zd",
+    "eymm2y1n3gxscio9qsjx252": null
   }
 }

@@ -27,10 +27,22 @@
     },
     "copyNoteLink": {}
   },
+  "site": {
+    "siteHierarchies": [
+      "root"
+    ],
+    "siteRootDir": ".next/out",
+    "siteUrl": "https://uni.ngoerlitz.de"
+  },
   "workspace": {
     "vaults": [
       {
-        "fsPath": "vault"
+        "fsPath": "2-semester",
+        "name": "2-semester"
+      },
+      {
+        "fsPath": "1-semester",
+        "name": "1-semester"
       }
     ],
     "journal": {
@@ -99,7 +111,8 @@
     "enableKatex": true,
     "copyAssets": true,
     "siteHierarchies": [
-      "root"
+      "1-semester",
+      "2-semester"
     ],
     "writeStubs": false,
     "siteRootDir": "docs",
@@ -121,11 +134,12 @@
     "duplicateNoteBehavior": {
       "action": "useVault",
       "payload": [
-        "vault"
+        "2-semester",
+        "1-semester"
       ]
     },
     "siteUrl": "localhost:3000",
     "siteFaviconPath": "favicon.ico",
-    "siteIndex": "root"
+    "siteIndex": "1-semester"
   }
 }

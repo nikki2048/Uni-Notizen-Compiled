@@ -2,15 +2,16 @@
   "notes": {
     "403": {
       "vault": {
-        "fsPath": "vault"
+        "fsPath": "2-semester",
+        "name": "2-semester"
       },
       "fname": "403",
       "id": "403",
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1648407051423,
-      "created": 1648407051424,
+      "updated": 1648410250062,
+      "created": 1648410250062,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -18,267 +19,228 @@
       "parent": null,
       "data": {}
     },
-    "15pikbcv325cmtfxo6mul0b": {
-      "id": "15pikbcv325cmtfxo6mul0b",
-      "title": "Root",
+    "bkbck58vovjx3bd1qg668zd": {
+      "id": "bkbck58vovjx3bd1qg668zd",
+      "title": "2. Semester",
       "desc": "",
-      "updated": 1648338027654,
-      "created": 1648338027654,
+      "updated": 1648410097895,
+      "created": 1648410097895,
       "custom": {
-        "nav_order": 0,
-        "permalink": "/"
+        "nav_order": 1
       },
-      "fname": "root",
+      "fname": "2-semester",
       "type": "note",
       "vault": {
-        "fsPath": "vault"
+        "fsPath": "2-semester",
+        "name": "2-semester"
       },
-      "contentHash": "cd4f657be32f848a46a0cbac62422bb1",
-      "links": [
-        {
-          "from": {
-            "fname": "sem1",
-            "vaultName": "vault"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 13,
-              "column": 1,
-              "offset": 757
-            },
-            "end": {
-              "line": 13,
-              "column": 37,
-              "offset": 793
-            },
-            "indent": []
-          },
-          "value": "root"
-        }
-      ],
-      "anchors": {
-        "welcome-to-dendron": {
-          "type": "header",
-          "text": "Welcome to Dendron",
-          "value": "welcome-to-dendron",
-          "line": 7,
-          "column": 0,
-          "depth": 1
-        },
-        "lookup": {
-          "type": "header",
-          "text": "Lookup",
-          "value": "lookup",
-          "line": 11,
-          "column": 0,
-          "depth": 2
-        }
-      },
+      "contentHash": "00ef1f1102eed8dfc321d49acf089ed0",
+      "links": [],
+      "anchors": {},
       "children": [
-        "rrvywgg63lku8sgz0i8m0mk"
+        "bwonefjmj0ciwjxzh0v1xwu",
+        "38b5ozlq96v6a7xyn1a2ajx",
+        "t864pvufdip3who00ykyeci"
       ],
       "parent": null,
       "data": {}
     },
-    "rrvywgg63lku8sgz0i8m0mk": {
-      "id": "rrvywgg63lku8sgz0i8m0mk",
-      "title": "1. Semester",
+    "t864pvufdip3who00ykyeci": {
+      "id": "t864pvufdip3who00ykyeci",
+      "title": "Lineare Algebra",
       "desc": "",
-      "updated": 1648394399882,
-      "created": 1648394399882,
+      "updated": 1648410205665,
+      "created": 1648410205665,
       "custom": {},
-      "fname": "sem1",
+      "fname": "2-semester.la",
       "type": "note",
       "vault": {
-        "fsPath": "vault"
+        "fsPath": "2-semester",
+        "name": "2-semester"
       },
-      "contentHash": "f82a88e18d87b38195528354f992edaa",
-      "links": [
-        {
-          "type": "ref",
-          "from": {
-            "fname": "sem1",
-            "id": "rrvywgg63lku8sgz0i8m0mk",
-            "vaultName": "vault"
-          },
-          "value": "root",
-          "position": {
-            "start": {
-              "line": 13,
-              "column": 1,
-              "offset": 757
-            },
-            "end": {
-              "line": 13,
-              "column": 37,
-              "offset": 793
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "to": {
-            "fname": "root",
-            "anchorHeader": "welcome-to-dendron:#lookup"
-          }
-        }
-      ],
+      "contentHash": "8f3bb36a0477201daf0537902be7ff4f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "bkbck58vovjx3bd1qg668zd",
+      "data": {}
+    },
+    "38b5ozlq96v6a7xyn1a2ajx": {
+      "id": "38b5ozlq96v6a7xyn1a2ajx",
+      "title": "Datenstrukturen und Algorithmen",
+      "desc": "",
+      "updated": 1648410215671,
+      "created": 1648410215671,
+      "custom": {},
+      "fname": "2-semester.dsal",
+      "type": "note",
+      "vault": {
+        "fsPath": "2-semester",
+        "name": "2-semester"
+      },
+      "contentHash": "2af024f1ece10aebd04f581b70cd4099",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "bkbck58vovjx3bd1qg668zd",
+      "data": {}
+    },
+    "bwonefjmj0ciwjxzh0v1xwu": {
+      "id": "bwonefjmj0ciwjxzh0v1xwu",
+      "title": "Betriebssysteme und Systemsoftware",
+      "desc": "",
+      "updated": 1648410192835,
+      "created": 1648410192835,
+      "custom": {},
+      "fname": "2-semester.bus",
+      "type": "note",
+      "vault": {
+        "fsPath": "2-semester",
+        "name": "2-semester"
+      },
+      "contentHash": "af42e61e1705e1f40c23412bd2ca7ffc",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "bkbck58vovjx3bd1qg668zd",
+      "data": {}
+    },
+    "eymm2y1n3gxscio9qsjx252": {
+      "id": "eymm2y1n3gxscio9qsjx252",
+      "title": "1. Semester",
+      "desc": "",
+      "updated": 1648410137203,
+      "created": 1648410137203,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "1-semester",
+      "type": "note",
+      "vault": {
+        "fsPath": "1-semester",
+        "name": "1-semester"
+      },
+      "contentHash": "48604c6a5c54aae204ff77210af20c5c",
+      "links": [],
       "anchors": {
-        "herzlich-willkommen-im-ersten-semester": {
+        "achtung": {
           "type": "header",
-          "text": "Herzlich Willkommen im ersten Semester",
-          "value": "herzlich-willkommen-im-ersten-semester",
+          "text": "Achtung!",
+          "value": "achtung",
           "line": 7,
           "column": 0,
-          "depth": 1
-        },
-        "mathe": {
-          "type": "header",
-          "text": "Mathe",
-          "value": "mathe",
-          "line": 21,
-          "column": 0,
-          "depth": 1
+          "depth": 3
         }
       },
       "children": [],
-      "parent": "15pikbcv325cmtfxo6mul0b",
+      "parent": null,
       "data": {}
     }
   },
   "domains": [
     {
-      "id": "15pikbcv325cmtfxo6mul0b",
-      "title": "Root",
+      "id": "eymm2y1n3gxscio9qsjx252",
+      "title": "1. Semester",
       "desc": "",
-      "updated": 1648338027654,
-      "created": 1648338027654,
+      "updated": 1648410137203,
+      "created": 1648410137203,
       "custom": {
         "nav_order": 0,
         "permalink": "/"
       },
-      "fname": "root",
+      "fname": "1-semester",
       "type": "note",
       "vault": {
-        "fsPath": "vault"
+        "fsPath": "1-semester",
+        "name": "1-semester"
       },
-      "contentHash": "cd4f657be32f848a46a0cbac62422bb1",
-      "links": [
-        {
-          "from": {
-            "fname": "sem1",
-            "vaultName": "vault"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 13,
-              "column": 1,
-              "offset": 757
-            },
-            "end": {
-              "line": 13,
-              "column": 37,
-              "offset": 793
-            },
-            "indent": []
-          },
-          "value": "root"
-        }
-      ],
+      "contentHash": "48604c6a5c54aae204ff77210af20c5c",
+      "links": [],
       "anchors": {
-        "welcome-to-dendron": {
+        "achtung": {
           "type": "header",
-          "text": "Welcome to Dendron",
-          "value": "welcome-to-dendron",
+          "text": "Achtung!",
+          "value": "achtung",
           "line": 7,
           "column": 0,
-          "depth": 1
-        },
-        "lookup": {
-          "type": "header",
-          "text": "Lookup",
-          "value": "lookup",
-          "line": 11,
-          "column": 0,
-          "depth": 2
+          "depth": 3
         }
       },
+      "children": [],
+      "parent": null,
+      "data": {},
+      "body": "### Achtung!\nDiese Seite befindet sich derzeit im Aufbau und steht aktuell noch nicht zur Verfügung. Schaue bitte später noch mal vorbei. \n"
+    },
+    {
+      "id": "bkbck58vovjx3bd1qg668zd",
+      "title": "2. Semester",
+      "desc": "",
+      "updated": 1648410097895,
+      "created": 1648410097895,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "2-semester",
+      "type": "note",
+      "vault": {
+        "fsPath": "2-semester",
+        "name": "2-semester"
+      },
+      "contentHash": "00ef1f1102eed8dfc321d49acf089ed0",
+      "links": [],
+      "anchors": {},
       "children": [
-        "rrvywgg63lku8sgz0i8m0mk"
+        "bwonefjmj0ciwjxzh0v1xwu",
+        "38b5ozlq96v6a7xyn1a2ajx",
+        "t864pvufdip3who00ykyeci"
       ],
       "parent": null,
       "data": {},
-      "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)\n"
+      "body": "\n"
     }
   ],
   "noteIndex": {
-    "id": "15pikbcv325cmtfxo6mul0b",
-    "title": "Root",
+    "id": "eymm2y1n3gxscio9qsjx252",
+    "title": "1. Semester",
     "desc": "",
-    "updated": 1648338027654,
-    "created": 1648338027654,
+    "updated": 1648410137203,
+    "created": 1648410137203,
     "custom": {
       "nav_order": 0,
       "permalink": "/"
     },
-    "fname": "root",
+    "fname": "1-semester",
     "type": "note",
     "vault": {
-      "fsPath": "vault"
+      "fsPath": "1-semester",
+      "name": "1-semester"
     },
-    "contentHash": "cd4f657be32f848a46a0cbac62422bb1",
-    "links": [
-      {
-        "from": {
-          "fname": "sem1",
-          "vaultName": "vault"
-        },
-        "type": "backlink",
-        "position": {
-          "start": {
-            "line": 13,
-            "column": 1,
-            "offset": 757
-          },
-          "end": {
-            "line": 13,
-            "column": 37,
-            "offset": 793
-          },
-          "indent": []
-        },
-        "value": "root"
-      }
-    ],
+    "contentHash": "48604c6a5c54aae204ff77210af20c5c",
+    "links": [],
     "anchors": {
-      "welcome-to-dendron": {
+      "achtung": {
         "type": "header",
-        "text": "Welcome to Dendron",
-        "value": "welcome-to-dendron",
+        "text": "Achtung!",
+        "value": "achtung",
         "line": 7,
         "column": 0,
-        "depth": 1
-      },
-      "lookup": {
-        "type": "header",
-        "text": "Lookup",
-        "value": "lookup",
-        "line": 11,
-        "column": 0,
-        "depth": 2
+        "depth": 3
       }
     },
-    "children": [
-      "rrvywgg63lku8sgz0i8m0mk"
-    ],
+    "children": [],
     "parent": null,
     "data": {},
-    "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)\n"
+    "body": "### Achtung!\nDiese Seite befindet sich derzeit im Aufbau und steht aktuell noch nicht zur Verfügung. Schaue bitte später noch mal vorbei. \n"
   },
   "vaults": [
     {
-      "fsPath": "vault"
+      "fsPath": "2-semester",
+      "name": "2-semester"
+    },
+    {
+      "fsPath": "1-semester",
+      "name": "1-semester"
     }
   ]
 }
