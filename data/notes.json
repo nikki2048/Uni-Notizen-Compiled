@@ -10,8 +10,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1649198966038,
-      "created": 1649198966038,
+      "updated": 1649199559040,
+      "created": 1649199559040,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -42,12 +42,12 @@
       "links": [],
       "anchors": {},
       "children": [
-        "2yub4ahbnmcs8t0ysi5sucx"
+        "c43kyfnwnidifyjxifcp3ib"
       ],
       "parent": null,
       "data": {}
     },
-    "2yub4ahbnmcs8t0ysi5sucx": {
+    "c43kyfnwnidifyjxifcp3ib": {
       "fname": "tags.my",
       "stub": true,
       "vault": {
@@ -56,9 +56,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1649198965985,
-      "created": 1649198965986,
-      "id": "2yub4ahbnmcs8t0ysi5sucx",
+      "updated": 1649199558984,
+      "created": 1649199558984,
+      "id": "c43kyfnwnidifyjxifcp3ib",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -105,7 +105,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "2yub4ahbnmcs8t0ysi5sucx",
+      "parent": "c43kyfnwnidifyjxifcp3ib",
       "data": {}
     },
     "bkbck58vovjx3bd1qg668zd": {
@@ -395,11 +395,9 @@
       "id": "eymm2y1n3gxscio9qsjx252",
       "title": "1. Semester",
       "desc": "",
-      "updated": 1649195755478,
+      "updated": 1649199547236,
       "created": 1648410137203,
-      "nav_exclude": true,
       "custom": {
-        "nav_exclude": true,
         "nav_order": 0,
         "permalink": "/"
       },
@@ -409,14 +407,14 @@
         "fsPath": "1-semester",
         "name": "1-semester"
       },
-      "contentHash": "44b0776329f06ea825d859435195d8c4",
+      "contentHash": "2606cead7e7c11116ec1d92fad5fed2f",
       "links": [],
       "anchors": {
         "achtung": {
           "type": "header",
           "text": "Achtung!",
           "value": "achtung",
-          "line": 8,
+          "line": 7,
           "column": 0,
           "depth": 3
         }
@@ -528,11 +526,9 @@
       "id": "eymm2y1n3gxscio9qsjx252",
       "title": "1. Semester",
       "desc": "",
-      "updated": 1649195755478,
+      "updated": 1649199547236,
       "created": 1648410137203,
-      "nav_exclude": true,
       "custom": {
-        "nav_exclude": true,
         "nav_order": 0,
         "permalink": "/"
       },
@@ -542,14 +538,14 @@
         "fsPath": "1-semester",
         "name": "1-semester"
       },
-      "contentHash": "44b0776329f06ea825d859435195d8c4",
+      "contentHash": "2606cead7e7c11116ec1d92fad5fed2f",
       "links": [],
       "anchors": {
         "achtung": {
           "type": "header",
           "text": "Achtung!",
           "value": "achtung",
-          "line": 8,
+          "line": 7,
           "column": 0,
           "depth": 3
         }
@@ -647,7 +643,7 @@
       "links": [],
       "anchors": {},
       "children": [
-        "2yub4ahbnmcs8t0ysi5sucx"
+        "c43kyfnwnidifyjxifcp3ib"
       ],
       "parent": null,
       "data": {},
@@ -658,11 +654,9 @@
     "id": "eymm2y1n3gxscio9qsjx252",
     "title": "1. Semester",
     "desc": "",
-    "updated": 1649195755478,
+    "updated": 1649199547236,
     "created": 1648410137203,
-    "nav_exclude": true,
     "custom": {
-      "nav_exclude": true,
       "nav_order": 0,
       "permalink": "/"
     },
@@ -672,14 +666,14 @@
       "fsPath": "1-semester",
       "name": "1-semester"
     },
-    "contentHash": "44b0776329f06ea825d859435195d8c4",
+    "contentHash": "2606cead7e7c11116ec1d92fad5fed2f",
     "links": [],
     "anchors": {
       "achtung": {
         "type": "header",
         "text": "Achtung!",
         "value": "achtung",
-        "line": 8,
+        "line": 7,
         "column": 0,
         "depth": 3
       }

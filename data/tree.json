@@ -6,7 +6,6 @@
       "icon": null,
       "hasTitleNumberOutlined": false,
       "vaultName": "1-semester",
-      "navExclude": true,
       "children": [
         {
           "key": "mq9fyqptdbajmovsjm6pszf",
@@ -97,7 +96,7 @@
       "navExclude": true,
       "children": [
         {
-          "key": "2yub4ahbnmcs8t0ysi5sucx",
+          "key": "c43kyfnwnidifyjxifcp3ib",
           "title": "My",
           "icon": "plusOutlined",
           "hasTitleNumberOutlined": true,
@@ -119,8 +118,8 @@
   "child2parent": {
     "403": null,
     "3ath607ojiolcjzk5cmg6l9": null,
-    "2yub4ahbnmcs8t0ysi5sucx": "3ath607ojiolcjzk5cmg6l9",
-    "rc9pm8hdj0p5n222kppsn6n": "2yub4ahbnmcs8t0ysi5sucx",
+    "c43kyfnwnidifyjxifcp3ib": "3ath607ojiolcjzk5cmg6l9",
+    "rc9pm8hdj0p5n222kppsn6n": "c43kyfnwnidifyjxifcp3ib",
     "bkbck58vovjx3bd1qg668zd": null,
     "t864pvufdip3who00ykyeci": "bkbck58vovjx3bd1qg668zd",
     "38b5ozlq96v6a7xyn1a2ajx": "bkbck58vovjx3bd1qg668zd",
