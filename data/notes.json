@@ -10,8 +10,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1649198701476,
-      "created": 1649198701476,
+      "updated": 1649198966038,
+      "created": 1649198966038,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -42,12 +42,12 @@
       "links": [],
       "anchors": {},
       "children": [
-        "7ny3r3tyiw6vwtvs85u5upm"
+        "2yub4ahbnmcs8t0ysi5sucx"
       ],
       "parent": null,
       "data": {}
     },
-    "7ny3r3tyiw6vwtvs85u5upm": {
+    "2yub4ahbnmcs8t0ysi5sucx": {
       "fname": "tags.my",
       "stub": true,
       "vault": {
@@ -56,9 +56,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1649198701418,
-      "created": 1649198701418,
-      "id": "7ny3r3tyiw6vwtvs85u5upm",
+      "updated": 1649198965985,
+      "created": 1649198965986,
+      "id": "2yub4ahbnmcs8t0ysi5sucx",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -105,7 +105,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "7ny3r3tyiw6vwtvs85u5upm",
+      "parent": "2yub4ahbnmcs8t0ysi5sucx",
       "data": {}
     },
     "bkbck58vovjx3bd1qg668zd": {
@@ -249,7 +249,7 @@
       "id": "9jc0m9repdoaxhrp6z26hai",
       "title": "Einführung",
       "desc": "",
-      "updated": 1649198341282,
+      "updated": 1649198809447,
       "created": 1649195797196,
       "custom": {},
       "fname": "2-semester.dsal.einführung",
@@ -258,35 +258,8 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "6d6972d8f6f3b2c846ba44c1b8170293",
-      "links": [
-        {
-          "type": "ref",
-          "from": {
-            "fname": "2-semester.dsal.einführung",
-            "id": "9jc0m9repdoaxhrp6z26hai",
-            "vaultName": "2-semester"
-          },
-          "value": "2-semester.bus",
-          "position": {
-            "start": {
-              "line": 46,
-              "column": 1,
-              "offset": 1128
-            },
-            "end": {
-              "line": 46,
-              "column": 20,
-              "offset": 1147
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "to": {
-            "fname": "2-semester.bus"
-          }
-        }
-      ],
+      "contentHash": "7aff0e444282ad11e9a5670d220e2c59",
+      "links": [],
       "anchors": {
         "positionsbestimmung": {
           "type": "header",
@@ -332,7 +305,7 @@
           "type": "header",
           "text": "Top-Down Software-Entwurf",
           "value": "top-down-software-entwurf",
-          "line": 54,
+          "line": 52,
           "column": 0,
           "depth": 3
         },
@@ -340,7 +313,7 @@
           "type": "header",
           "text": "Software-Entwicklung",
           "value": "software-entwicklung",
-          "line": 65,
+          "line": 63,
           "column": 0,
           "depth": 3
         },
@@ -348,7 +321,7 @@
           "type": "header",
           "text": "Übersicht",
           "value": "übersicht",
-          "line": 73,
+          "line": 71,
           "column": 0,
           "depth": 1
         },
@@ -356,7 +329,7 @@
           "type": "header",
           "text": "Datenstrukturen",
           "value": "datenstrukturen",
-          "line": 81,
+          "line": 79,
           "column": 0,
           "depth": 2
         },
@@ -364,7 +337,7 @@
           "type": "header",
           "text": "Algorithmen",
           "value": "algorithmen-1",
-          "line": 89,
+          "line": 87,
           "column": 0,
           "depth": 2
         }
@@ -387,29 +360,7 @@
         "name": "2-semester"
       },
       "contentHash": "c4d90f4f7dafd0802a4668074b891d23",
-      "links": [
-        {
-          "from": {
-            "fname": "2-semester.dsal.einführung",
-            "vaultName": "2-semester"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 46,
-              "column": 1,
-              "offset": 1128
-            },
-            "end": {
-              "line": 46,
-              "column": 20,
-              "offset": 1147
-            },
-            "indent": []
-          },
-          "value": "2-semester.bus"
-        }
-      ],
+      "links": [],
       "anchors": {
         "einleitung": {
           "type": "header",
@@ -696,7 +647,7 @@
       "links": [],
       "anchors": {},
       "children": [
-        "7ny3r3tyiw6vwtvs85u5upm"
+        "2yub4ahbnmcs8t0ysi5sucx"
       ],
       "parent": null,
       "data": {},

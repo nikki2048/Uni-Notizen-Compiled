@@ -43,8 +43,6 @@ Definition: Schrittweise Modifikation von Daten zur Lösung eines Problems
     - Speicherplatz
     - Energieverbrauch
 
-![[2-semester.bus]]
-
 ### Top-Down Software-Entwurf
 - Spezifiziere Eingabe / Ausgabe
 - Problemlösung
