@@ -10,8 +10,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1648424821474,
-      "created": 1648424821474,
+      "updated": 1649198701476,
+      "created": 1649198701476,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -42,12 +42,12 @@
       "links": [],
       "anchors": {},
       "children": [
-        "zrog8io2wfgfme77by1zjub"
+        "7ny3r3tyiw6vwtvs85u5upm"
       ],
       "parent": null,
       "data": {}
     },
-    "zrog8io2wfgfme77by1zjub": {
+    "7ny3r3tyiw6vwtvs85u5upm": {
       "fname": "tags.my",
       "stub": true,
       "vault": {
@@ -56,9 +56,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1648424821420,
-      "created": 1648424821421,
-      "id": "zrog8io2wfgfme77by1zjub",
+      "updated": 1649198701418,
+      "created": 1649198701418,
+      "id": "7ny3r3tyiw6vwtvs85u5upm",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -105,7 +105,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "zrog8io2wfgfme77by1zjub",
+      "parent": "7ny3r3tyiw6vwtvs85u5upm",
       "data": {}
     },
     "bkbck58vovjx3bd1qg668zd": {
@@ -209,7 +209,7 @@
       "id": "38b5ozlq96v6a7xyn1a2ajx",
       "title": "Datenstrukturen und Algorithmen",
       "desc": "",
-      "updated": 1648410215671,
+      "updated": 1649195719527,
       "created": 1648410215671,
       "tags": [
         "other.example"
@@ -221,7 +221,7 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "b6758b8129b909bfd2e6f10fc617a8f8",
+      "contentHash": "f1410742ba418c39e43c1fd6d41347bb",
       "links": [
         {
           "type": "frontmatterTag",
@@ -239,8 +239,138 @@
         }
       ],
       "anchors": {},
-      "children": [],
+      "children": [
+        "9jc0m9repdoaxhrp6z26hai"
+      ],
       "parent": "bkbck58vovjx3bd1qg668zd",
+      "data": {}
+    },
+    "9jc0m9repdoaxhrp6z26hai": {
+      "id": "9jc0m9repdoaxhrp6z26hai",
+      "title": "Einführung",
+      "desc": "",
+      "updated": 1649198341282,
+      "created": 1649195797196,
+      "custom": {},
+      "fname": "2-semester.dsal.einführung",
+      "type": "note",
+      "vault": {
+        "fsPath": "2-semester",
+        "name": "2-semester"
+      },
+      "contentHash": "6d6972d8f6f3b2c846ba44c1b8170293",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "2-semester.dsal.einführung",
+            "id": "9jc0m9repdoaxhrp6z26hai",
+            "vaultName": "2-semester"
+          },
+          "value": "2-semester.bus",
+          "position": {
+            "start": {
+              "line": 46,
+              "column": 1,
+              "offset": 1128
+            },
+            "end": {
+              "line": 46,
+              "column": 20,
+              "offset": 1147
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "2-semester.bus"
+          }
+        }
+      ],
+      "anchors": {
+        "positionsbestimmung": {
+          "type": "header",
+          "text": "Positionsbestimmung",
+          "value": "positionsbestimmung",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "informationsverarbeitung": {
+          "type": "header",
+          "text": "Informationsverarbeitung",
+          "value": "informationsverarbeitung",
+          "line": 13,
+          "column": 0,
+          "depth": 3
+        },
+        "algorithmen": {
+          "type": "header",
+          "text": "Algorithmen",
+          "value": "algorithmen",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "eigenschaften-donald-knuth": {
+          "type": "header",
+          "text": "Eigenschaften (Donald Knuth)",
+          "value": "eigenschaften-donald-knuth",
+          "line": 27,
+          "column": 0,
+          "depth": 3
+        },
+        "analyse-von-algorithmen": {
+          "type": "header",
+          "text": "Analyse von Algorithmen",
+          "value": "analyse-von-algorithmen",
+          "line": 33,
+          "column": 0,
+          "depth": 3
+        },
+        "top-down-software-entwurf": {
+          "type": "header",
+          "text": "Top-Down Software-Entwurf",
+          "value": "top-down-software-entwurf",
+          "line": 54,
+          "column": 0,
+          "depth": 3
+        },
+        "software-entwicklung": {
+          "type": "header",
+          "text": "Software-Entwicklung",
+          "value": "software-entwicklung",
+          "line": 65,
+          "column": 0,
+          "depth": 3
+        },
+        "übersicht": {
+          "type": "header",
+          "text": "Übersicht",
+          "value": "übersicht",
+          "line": 73,
+          "column": 0,
+          "depth": 1
+        },
+        "datenstrukturen": {
+          "type": "header",
+          "text": "Datenstrukturen",
+          "value": "datenstrukturen",
+          "line": 81,
+          "column": 0,
+          "depth": 2
+        },
+        "algorithmen-1": {
+          "type": "header",
+          "text": "Algorithmen",
+          "value": "algorithmen-1",
+          "line": 89,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "38b5ozlq96v6a7xyn1a2ajx",
       "data": {}
     },
     "bwonefjmj0ciwjxzh0v1xwu": {
@@ -257,7 +387,29 @@
         "name": "2-semester"
       },
       "contentHash": "c4d90f4f7dafd0802a4668074b891d23",
-      "links": [],
+      "links": [
+        {
+          "from": {
+            "fname": "2-semester.dsal.einführung",
+            "vaultName": "2-semester"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 46,
+              "column": 1,
+              "offset": 1128
+            },
+            "end": {
+              "line": 46,
+              "column": 20,
+              "offset": 1147
+            },
+            "indent": []
+          },
+          "value": "2-semester.bus"
+        }
+      ],
       "anchors": {
         "einleitung": {
           "type": "header",
@@ -292,9 +444,11 @@
       "id": "eymm2y1n3gxscio9qsjx252",
       "title": "1. Semester",
       "desc": "",
-      "updated": 1648410137203,
+      "updated": 1649195755478,
       "created": 1648410137203,
+      "nav_exclude": true,
       "custom": {
+        "nav_exclude": true,
         "nav_order": 0,
         "permalink": "/"
       },
@@ -304,14 +458,14 @@
         "fsPath": "1-semester",
         "name": "1-semester"
       },
-      "contentHash": "48604c6a5c54aae204ff77210af20c5c",
+      "contentHash": "44b0776329f06ea825d859435195d8c4",
       "links": [],
       "anchors": {
         "achtung": {
           "type": "header",
           "text": "Achtung!",
           "value": "achtung",
-          "line": 7,
+          "line": 8,
           "column": 0,
           "depth": 3
         }
@@ -329,16 +483,19 @@
       "id": "61na7xsawgy96whjhox0nrj",
       "title": "Technische Informatik",
       "desc": "",
-      "updated": 1648422737296,
+      "updated": 1649195746323,
       "created": 1648422737296,
-      "custom": {},
+      "nav_exclude": true,
+      "custom": {
+        "nav_exclude": true
+      },
       "fname": "1-semester.ti",
       "type": "note",
       "vault": {
         "fsPath": "1-semester",
         "name": "1-semester"
       },
-      "contentHash": "912185cc174ac406fb0eb1d672d55e76",
+      "contentHash": "719e8266310d63f5cc6f4dad417f4721",
       "links": [],
       "anchors": {},
       "children": [],
@@ -349,16 +506,19 @@
       "id": "4jjxr9kns8s4x6n09sxso0t",
       "title": "Programmierung",
       "desc": "",
-      "updated": 1648422741497,
+      "updated": 1649195752718,
       "created": 1648422741497,
-      "custom": {},
+      "nav_exclude": true,
+      "custom": {
+        "nav_exclude": true
+      },
       "fname": "1-semester.progra",
       "type": "note",
       "vault": {
         "fsPath": "1-semester",
         "name": "1-semester"
       },
-      "contentHash": "c6424f5e0f7e9029b6e418e02e52fcdd",
+      "contentHash": "3a8a733bb526d95e853ef6aed14cc3f9",
       "links": [],
       "anchors": {},
       "children": [],
@@ -369,16 +529,19 @@
       "id": "66k2himygj99xw3q5d3t3lv",
       "title": "Diskrete Strukturen",
       "desc": "",
-      "updated": 1648422704939,
+      "updated": 1649195757529,
       "created": 1648422704939,
-      "custom": {},
+      "nav_exclude": true,
+      "custom": {
+        "nav_exclude": true
+      },
       "fname": "1-semester.ds",
       "type": "note",
       "vault": {
         "fsPath": "1-semester",
         "name": "1-semester"
       },
-      "contentHash": "4f45ad691a9a05b1cde8ec2ed7698c30",
+      "contentHash": "60d28f1a94b1d6693bfd792bf0acd0d8",
       "links": [],
       "anchors": {},
       "children": [],
@@ -389,16 +552,19 @@
       "id": "mq9fyqptdbajmovsjm6pszf",
       "title": "Analysis für Informatiker",
       "desc": "",
-      "updated": 1648422731270,
+      "updated": 1649195765382,
       "created": 1648422731270,
-      "custom": {},
+      "nav_exclude": true,
+      "custom": {
+        "nav_exclude": true
+      },
       "fname": "1-semester.afi",
       "type": "note",
       "vault": {
         "fsPath": "1-semester",
         "name": "1-semester"
       },
-      "contentHash": "3498554eeabb287f2e119d4ec9b1904f",
+      "contentHash": "83003c4ab87470be603ba69a7b14c90c",
       "links": [],
       "anchors": {},
       "children": [],
@@ -411,9 +577,11 @@
       "id": "eymm2y1n3gxscio9qsjx252",
       "title": "1. Semester",
       "desc": "",
-      "updated": 1648410137203,
+      "updated": 1649195755478,
       "created": 1648410137203,
+      "nav_exclude": true,
       "custom": {
+        "nav_exclude": true,
         "nav_order": 0,
         "permalink": "/"
       },
@@ -423,14 +591,14 @@
         "fsPath": "1-semester",
         "name": "1-semester"
       },
-      "contentHash": "48604c6a5c54aae204ff77210af20c5c",
+      "contentHash": "44b0776329f06ea825d859435195d8c4",
       "links": [],
       "anchors": {
         "achtung": {
           "type": "header",
           "text": "Achtung!",
           "value": "achtung",
-          "line": 7,
+          "line": 8,
           "column": 0,
           "depth": 3
         }
@@ -528,7 +696,7 @@
       "links": [],
       "anchors": {},
       "children": [
-        "zrog8io2wfgfme77by1zjub"
+        "7ny3r3tyiw6vwtvs85u5upm"
       ],
       "parent": null,
       "data": {},
@@ -539,9 +707,11 @@
     "id": "eymm2y1n3gxscio9qsjx252",
     "title": "1. Semester",
     "desc": "",
-    "updated": 1648410137203,
+    "updated": 1649195755478,
     "created": 1648410137203,
+    "nav_exclude": true,
     "custom": {
+      "nav_exclude": true,
       "nav_order": 0,
       "permalink": "/"
     },
@@ -551,14 +721,14 @@
       "fsPath": "1-semester",
       "name": "1-semester"
     },
-    "contentHash": "48604c6a5c54aae204ff77210af20c5c",
+    "contentHash": "44b0776329f06ea825d859435195d8c4",
     "links": [],
     "anchors": {
       "achtung": {
         "type": "header",
         "text": "Achtung!",
         "value": "achtung",
-        "line": 7,
+        "line": 8,
         "column": 0,
         "depth": 3
       }

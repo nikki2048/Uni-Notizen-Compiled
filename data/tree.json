@@ -6,6 +6,7 @@
       "icon": null,
       "hasTitleNumberOutlined": false,
       "vaultName": "1-semester",
+      "navExclude": true,
       "children": [
         {
           "key": "mq9fyqptdbajmovsjm6pszf",
@@ -13,6 +14,7 @@
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "1-semester",
+          "navExclude": true,
           "children": []
         },
         {
@@ -21,6 +23,7 @@
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "1-semester",
+          "navExclude": true,
           "children": []
         },
         {
@@ -29,6 +32,7 @@
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "1-semester",
+          "navExclude": true,
           "children": []
         },
         {
@@ -37,6 +41,7 @@
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "1-semester",
+          "navExclude": true,
           "children": []
         }
       ]
@@ -62,7 +67,16 @@
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "2-semester",
-          "children": []
+          "children": [
+            {
+              "key": "9jc0m9repdoaxhrp6z26hai",
+              "title": "Einführung",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "2-semester",
+              "children": []
+            }
+          ]
         },
         {
           "key": "t864pvufdip3who00ykyeci",
@@ -83,7 +97,7 @@
       "navExclude": true,
       "children": [
         {
-          "key": "zrog8io2wfgfme77by1zjub",
+          "key": "7ny3r3tyiw6vwtvs85u5upm",
           "title": "My",
           "icon": "plusOutlined",
           "hasTitleNumberOutlined": true,
@@ -105,11 +119,12 @@
   "child2parent": {
     "403": null,
     "3ath607ojiolcjzk5cmg6l9": null,
-    "zrog8io2wfgfme77by1zjub": "3ath607ojiolcjzk5cmg6l9",
-    "rc9pm8hdj0p5n222kppsn6n": "zrog8io2wfgfme77by1zjub",
+    "7ny3r3tyiw6vwtvs85u5upm": "3ath607ojiolcjzk5cmg6l9",
+    "rc9pm8hdj0p5n222kppsn6n": "7ny3r3tyiw6vwtvs85u5upm",
     "bkbck58vovjx3bd1qg668zd": null,
     "t864pvufdip3who00ykyeci": "bkbck58vovjx3bd1qg668zd",
     "38b5ozlq96v6a7xyn1a2ajx": "bkbck58vovjx3bd1qg668zd",
+    "9jc0m9repdoaxhrp6z26hai": "38b5ozlq96v6a7xyn1a2ajx",
     "bwonefjmj0ciwjxzh0v1xwu": "bkbck58vovjx3bd1qg668zd",
     "eymm2y1n3gxscio9qsjx252": null,
     "61na7xsawgy96whjhox0nrj": "eymm2y1n3gxscio9qsjx252",
