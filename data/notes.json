@@ -10,8 +10,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1649283009058,
-      "created": 1649283009058,
+      "updated": 1649283379692,
+      "created": 1649283379692,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -42,12 +42,12 @@
       "links": [],
       "anchors": {},
       "children": [
-        "6i7qqwdtwy3srtrrt3fstlx"
+        "iiuv0rmizfvqj34zfzr0hzf"
       ],
       "parent": null,
       "data": {}
     },
-    "6i7qqwdtwy3srtrrt3fstlx": {
+    "iiuv0rmizfvqj34zfzr0hzf": {
       "fname": "tags.my",
       "stub": true,
       "vault": {
@@ -56,9 +56,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1649283009001,
-      "created": 1649283009001,
-      "id": "6i7qqwdtwy3srtrrt3fstlx",
+      "updated": 1649283379637,
+      "created": 1649283379637,
+      "id": "iiuv0rmizfvqj34zfzr0hzf",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -105,7 +105,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "6i7qqwdtwy3srtrrt3fstlx",
+      "parent": "iiuv0rmizfvqj34zfzr0hzf",
       "data": {}
     },
     "bkbck58vovjx3bd1qg668zd": {
@@ -171,7 +171,7 @@
       "id": "t864pvufdip3who00ykyeci",
       "title": "Lineare Algebra",
       "desc": "",
-      "updated": 1648410205665,
+      "updated": 1649283281560,
       "created": 1648410205665,
       "tags": [
         "my.example"
@@ -183,7 +183,7 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "78e5841c618b4d8c317b2ef7374ff720",
+      "contentHash": "5cd647333d53a19a0a6ad317f0a9eaed",
       "links": [
         {
           "type": "frontmatterTag",
@@ -522,8 +522,12 @@
       "id": "zrpahcn6j3h2mzyij35998n",
       "title": "Gruppen",
       "desc": "",
-      "updated": 1649282590040,
+      "updated": 1649283338296,
       "created": 1649280744306,
+      "tags": [
+        "ds",
+        "gruppen"
+      ],
       "custom": {},
       "fname": "1-semester.ds.algebraische-strukturen.gruppen",
       "type": "note",
@@ -531,14 +535,43 @@
         "fsPath": "1-semester",
         "name": "1-semester"
       },
-      "contentHash": "34dfc5cc70baf7bc426c3c315167558e",
-      "links": [],
+      "contentHash": "7af09753941e53373f7f4764cfbd9366",
+      "links": [
+        {
+          "type": "frontmatterTag",
+          "from": {
+            "fname": "1-semester.ds.algebraische-strukturen.gruppen",
+            "id": "zrpahcn6j3h2mzyij35998n",
+            "vaultName": "1-semester"
+          },
+          "value": "tags.ds",
+          "alias": "ds",
+          "xvault": false,
+          "to": {
+            "fname": "tags.ds"
+          }
+        },
+        {
+          "type": "frontmatterTag",
+          "from": {
+            "fname": "1-semester.ds.algebraische-strukturen.gruppen",
+            "id": "zrpahcn6j3h2mzyij35998n",
+            "vaultName": "1-semester"
+          },
+          "value": "tags.gruppen",
+          "alias": "gruppen",
+          "xvault": false,
+          "to": {
+            "fname": "tags.gruppen"
+          }
+        }
+      ],
       "anchors": {
         "strukturen-und-verknüpfungen": {
           "type": "header",
           "text": "Strukturen und Verknüpfungen",
           "value": "strukturen-und-verknüpfungen",
-          "line": 7,
+          "line": 10,
           "column": 0,
           "depth": 2
         },
@@ -546,7 +579,7 @@
           "type": "header",
           "text": "Monoide",
           "value": "monoide",
-          "line": 25,
+          "line": 28,
           "column": 0,
           "depth": 2
         },
@@ -554,15 +587,15 @@
           "type": "header",
           "text": "Inverse und Einheiten",
           "value": "inverse-und-einheiten",
-          "line": 48,
+          "line": 51,
           "column": 0,
           "depth": 2
         },
-        "gruppen": {
+        "gruppe": {
           "type": "header",
-          "text": "Gruppen",
-          "value": "gruppen",
-          "line": 55,
+          "text": "Gruppe",
+          "value": "gruppe",
+          "line": 58,
           "column": 0,
           "depth": 2
         },
@@ -570,7 +603,7 @@
           "type": "header",
           "text": "Untergruppen",
           "value": "untergruppen",
-          "line": 68,
+          "line": 71,
           "column": 0,
           "depth": 2
         }
@@ -725,7 +758,7 @@
       "links": [],
       "anchors": {},
       "children": [
-        "6i7qqwdtwy3srtrrt3fstlx"
+        "iiuv0rmizfvqj34zfzr0hzf"
       ],
       "parent": null,
       "data": {},

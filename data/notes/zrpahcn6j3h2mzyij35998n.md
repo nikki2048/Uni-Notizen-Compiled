@@ -46,7 +46,7 @@ Es sei $A$ eine beliebige Menge, $B := \{0,1\}$.
 - Ist $a$ sowohl links- als auch rechtsinvertierbar, so heißt $a$ eine *Einheit*. 
 - Gibt es $b \in M$ mit $b \bullet a = e = a \bullet b$, so heißt $a$ *invertierbar* und $b$ *invers* zu $a$ bzw. $b$ ein *Inverses* von $a$.
 
-## Gruppen
+## Gruppe
 **Definition:** Ein Monoid $(G, \bullet)$, in dem alle Elemente invertierbar sind, heißt *Gruppe*. D.h. in einer Gruppe gilt:
 
 (M3) Für alle $x \in G$ existiert $x' \in G$ mit $x \bullet x' = e = x' \bullet x$
