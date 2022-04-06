@@ -22,8 +22,25 @@
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "1-semester",
-          "navExclude": true,
-          "children": []
+          "children": [
+            {
+              "key": "zimlilmjzivrqe74wjw0t8e",
+              "title": "Algebraische Strukturen",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "1-semester",
+              "children": [
+                {
+                  "key": "zrpahcn6j3h2mzyij35998n",
+                  "title": "Gruppen",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "1-semester",
+                  "children": []
+                }
+              ]
+            }
+          ]
         },
         {
           "key": "4jjxr9kns8s4x6n09sxso0t",
@@ -96,7 +113,7 @@
       "navExclude": true,
       "children": [
         {
-          "key": "c43kyfnwnidifyjxifcp3ib",
+          "key": "px0dyzjpap2o80np0khf99m",
           "title": "My",
           "icon": "plusOutlined",
           "hasTitleNumberOutlined": true,
@@ -118,8 +135,8 @@
   "child2parent": {
     "403": null,
     "3ath607ojiolcjzk5cmg6l9": null,
-    "c43kyfnwnidifyjxifcp3ib": "3ath607ojiolcjzk5cmg6l9",
-    "rc9pm8hdj0p5n222kppsn6n": "c43kyfnwnidifyjxifcp3ib",
+    "px0dyzjpap2o80np0khf99m": "3ath607ojiolcjzk5cmg6l9",
+    "rc9pm8hdj0p5n222kppsn6n": "px0dyzjpap2o80np0khf99m",
     "bkbck58vovjx3bd1qg668zd": null,
     "t864pvufdip3who00ykyeci": "bkbck58vovjx3bd1qg668zd",
     "38b5ozlq96v6a7xyn1a2ajx": "bkbck58vovjx3bd1qg668zd",
@@ -129,6 +146,8 @@
     "61na7xsawgy96whjhox0nrj": "eymm2y1n3gxscio9qsjx252",
     "4jjxr9kns8s4x6n09sxso0t": "eymm2y1n3gxscio9qsjx252",
     "66k2himygj99xw3q5d3t3lv": "eymm2y1n3gxscio9qsjx252",
+    "zimlilmjzivrqe74wjw0t8e": "66k2himygj99xw3q5d3t3lv",
+    "zrpahcn6j3h2mzyij35998n": "zimlilmjzivrqe74wjw0t8e",
     "mq9fyqptdbajmovsjm6pszf": "eymm2y1n3gxscio9qsjx252"
   }
 }

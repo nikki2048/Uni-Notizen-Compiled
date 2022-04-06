@@ -10,8 +10,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1649199559040,
-      "created": 1649199559040,
+      "updated": 1649282623211,
+      "created": 1649282623211,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -42,12 +42,12 @@
       "links": [],
       "anchors": {},
       "children": [
-        "c43kyfnwnidifyjxifcp3ib"
+        "px0dyzjpap2o80np0khf99m"
       ],
       "parent": null,
       "data": {}
     },
-    "c43kyfnwnidifyjxifcp3ib": {
+    "px0dyzjpap2o80np0khf99m": {
       "fname": "tags.my",
       "stub": true,
       "vault": {
@@ -56,9 +56,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1649199558984,
-      "created": 1649199558984,
-      "id": "c43kyfnwnidifyjxifcp3ib",
+      "updated": 1649282623151,
+      "created": 1649282623151,
+      "id": "px0dyzjpap2o80np0khf99m",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -105,7 +105,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "c43kyfnwnidifyjxifcp3ib",
+      "parent": "px0dyzjpap2o80np0khf99m",
       "data": {}
     },
     "bkbck58vovjx3bd1qg668zd": {
@@ -478,23 +478,105 @@
       "id": "66k2himygj99xw3q5d3t3lv",
       "title": "Diskrete Strukturen",
       "desc": "",
-      "updated": 1649195757529,
+      "updated": 1649282594544,
       "created": 1648422704939,
-      "nav_exclude": true,
-      "custom": {
-        "nav_exclude": true
-      },
+      "custom": {},
       "fname": "1-semester.ds",
       "type": "note",
       "vault": {
         "fsPath": "1-semester",
         "name": "1-semester"
       },
-      "contentHash": "60d28f1a94b1d6693bfd792bf0acd0d8",
+      "contentHash": "b922016702c0895c9d8afec114a5e56f",
       "links": [],
       "anchors": {},
-      "children": [],
+      "children": [
+        "zimlilmjzivrqe74wjw0t8e"
+      ],
       "parent": "eymm2y1n3gxscio9qsjx252",
+      "data": {}
+    },
+    "zimlilmjzivrqe74wjw0t8e": {
+      "id": "zimlilmjzivrqe74wjw0t8e",
+      "title": "Algebraische Strukturen",
+      "desc": "",
+      "updated": 1649280715531,
+      "created": 1649280715531,
+      "custom": {},
+      "fname": "1-semester.ds.algebraische-strukturen",
+      "type": "note",
+      "vault": {
+        "fsPath": "1-semester",
+        "name": "1-semester"
+      },
+      "contentHash": "719fb67a02de48c6dda5e4ad6aac64fe",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "zrpahcn6j3h2mzyij35998n"
+      ],
+      "parent": "66k2himygj99xw3q5d3t3lv",
+      "data": {}
+    },
+    "zrpahcn6j3h2mzyij35998n": {
+      "id": "zrpahcn6j3h2mzyij35998n",
+      "title": "Gruppen",
+      "desc": "",
+      "updated": 1649282590040,
+      "created": 1649280744306,
+      "custom": {},
+      "fname": "1-semester.ds.algebraische-strukturen.gruppen",
+      "type": "note",
+      "vault": {
+        "fsPath": "1-semester",
+        "name": "1-semester"
+      },
+      "contentHash": "34dfc5cc70baf7bc426c3c315167558e",
+      "links": [],
+      "anchors": {
+        "strukturen-und-verknüpfungen": {
+          "type": "header",
+          "text": "Strukturen und Verknüpfungen",
+          "value": "strukturen-und-verknüpfungen",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "monoide": {
+          "type": "header",
+          "text": "Monoide",
+          "value": "monoide",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        },
+        "inverse-und-einheiten": {
+          "type": "header",
+          "text": "Inverse und Einheiten",
+          "value": "inverse-und-einheiten",
+          "line": 48,
+          "column": 0,
+          "depth": 2
+        },
+        "gruppen": {
+          "type": "header",
+          "text": "Gruppen",
+          "value": "gruppen",
+          "line": 55,
+          "column": 0,
+          "depth": 2
+        },
+        "untergruppen": {
+          "type": "header",
+          "text": "Untergruppen",
+          "value": "untergruppen",
+          "line": 68,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "zimlilmjzivrqe74wjw0t8e",
       "data": {}
     },
     "mq9fyqptdbajmovsjm6pszf": {
@@ -643,7 +725,7 @@
       "links": [],
       "anchors": {},
       "children": [
-        "c43kyfnwnidifyjxifcp3ib"
+        "px0dyzjpap2o80np0khf99m"
       ],
       "parent": null,
       "data": {},
