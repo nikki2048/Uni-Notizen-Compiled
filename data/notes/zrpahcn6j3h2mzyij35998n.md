@@ -6,7 +6,7 @@ $$\begin{equation}
 Eine *algebraische Struktur* ist eine Menge mit ein oder mehreren Verknüpfungen.
 
 **Beispiele:**
-- \- : $\mathbb{Z} \times \mathbb{Z} \rightarrow \mathbb{Z}, (x,y) \mapsto x - y$ istt eine Verknüpfung auf $\mathbb{Z}$.
+- \- : $\mathbb{Z} \times \mathbb{Z} \rightarrow \mathbb{Z}, (x,y) \mapsto x - y$ ist eine Verknüpfung auf $\mathbb{Z}$.
 - $\land$ ist eine Verknüpfung auf $B = \{0,1\}$ (wenn wir 0 und 1 als Wahrheitswerte definieren, und $\land$ durch die zugehörige Wahrheitstafel definiert ist).
 - $7 \mathbb{Z} = \{7a \mid a \in \mathbb{Z}\} = \{\ldots, -14, -7, 0, 7, 14, \ldots\}$
 
@@ -17,7 +17,7 @@ Es seien $M$ eine Menge, $\bullet$ eine Verknüpfung auf $M, m \in M$, und $A,B 
 - $A \bullet B := \{a \bullet b \mid a \in A, b \in B\} \subseteq M$
 
 ## Monoide
-**Definition:** Es sei $M$ eine Menge mitt einer Verknüpfung:
+**Definition:** Es sei $M$ eine Menge mit einer Verknüpfung:
 $$\begin{equation}
     \bullet : M \times M \rightarrow M, (x,y) \mapsto x \bullet y
 \end{equation}$$
@@ -54,7 +54,7 @@ Es sei $A$ eine beliebige Menge, $B := \{0,1\}$.
 *M3 = Monoide 3. Axiom*
 
 **Beispiele:**
-- $(\mathbb{Z}, +)$ istt eine abelsche Gruppe.
+- $(\mathbb{Z}, +)$ ist eine abelsche Gruppe.
 - $(\mathbb{N}_0, +)$ ist keine Gruppe, da (M3) nicht gilt. 
 - $(\mathbb{R}, \cdot)$ ist keine Gruppe, da (M3) nicht gilt.
 - $(\mathbb{R} \backslash \{0\}, \cdot)$ und $(R_{>0}, \cdot)$ sind abelsche Gruppen. 
