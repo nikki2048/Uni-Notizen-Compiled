@@ -10,13 +10,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-<<<<<<< HEAD
-      "updated": 1649282623211,
-      "created": 1649282623211,
-=======
-      "updated": 1649202112269,
-      "created": 1649202112269,
->>>>>>> a43b1561f7eab8a63e68bb0f2c9f41c78a899d9d
+      "updated": 1649283009058,
+      "created": 1649283009058,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -47,20 +42,12 @@
       "links": [],
       "anchors": {},
       "children": [
-<<<<<<< HEAD
-        "px0dyzjpap2o80np0khf99m"
-=======
-        "9n096dma5dgng7ivuxa5lte"
->>>>>>> a43b1561f7eab8a63e68bb0f2c9f41c78a899d9d
+        "6i7qqwdtwy3srtrrt3fstlx"
       ],
       "parent": null,
       "data": {}
     },
-<<<<<<< HEAD
-    "px0dyzjpap2o80np0khf99m": {
-=======
-    "9n096dma5dgng7ivuxa5lte": {
->>>>>>> a43b1561f7eab8a63e68bb0f2c9f41c78a899d9d
+    "6i7qqwdtwy3srtrrt3fstlx": {
       "fname": "tags.my",
       "stub": true,
       "vault": {
@@ -69,15 +56,9 @@
       },
       "schemaStub": false,
       "type": "note",
-<<<<<<< HEAD
-      "updated": 1649282623151,
-      "created": 1649282623151,
-      "id": "px0dyzjpap2o80np0khf99m",
-=======
-      "updated": 1649202112247,
-      "created": 1649202112247,
-      "id": "9n096dma5dgng7ivuxa5lte",
->>>>>>> a43b1561f7eab8a63e68bb0f2c9f41c78a899d9d
+      "updated": 1649283009001,
+      "created": 1649283009001,
+      "id": "6i7qqwdtwy3srtrrt3fstlx",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -124,11 +105,7 @@
       ],
       "anchors": {},
       "children": [],
-<<<<<<< HEAD
-      "parent": "px0dyzjpap2o80np0khf99m",
-=======
-      "parent": "9n096dma5dgng7ivuxa5lte",
->>>>>>> a43b1561f7eab8a63e68bb0f2c9f41c78a899d9d
+      "parent": "6i7qqwdtwy3srtrrt3fstlx",
       "data": {}
     },
     "bkbck58vovjx3bd1qg668zd": {
@@ -748,11 +725,7 @@
       "links": [],
       "anchors": {},
       "children": [
-<<<<<<< HEAD
-        "px0dyzjpap2o80np0khf99m"
-=======
-        "9n096dma5dgng7ivuxa5lte"
->>>>>>> a43b1561f7eab8a63e68bb0f2c9f41c78a899d9d
+        "6i7qqwdtwy3srtrrt3fstlx"
       ],
       "parent": null,
       "data": {},

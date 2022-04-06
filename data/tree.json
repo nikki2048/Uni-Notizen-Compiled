@@ -113,11 +113,7 @@
       "navExclude": true,
       "children": [
         {
-<<<<<<< HEAD
-          "key": "px0dyzjpap2o80np0khf99m",
-=======
-          "key": "9n096dma5dgng7ivuxa5lte",
->>>>>>> a43b1561f7eab8a63e68bb0f2c9f41c78a899d9d
+          "key": "6i7qqwdtwy3srtrrt3fstlx",
           "title": "My",
           "icon": "plusOutlined",
           "hasTitleNumberOutlined": true,
@@ -139,13 +135,8 @@
   "child2parent": {
     "403": null,
     "3ath607ojiolcjzk5cmg6l9": null,
-<<<<<<< HEAD
-    "px0dyzjpap2o80np0khf99m": "3ath607ojiolcjzk5cmg6l9",
-    "rc9pm8hdj0p5n222kppsn6n": "px0dyzjpap2o80np0khf99m",
-=======
-    "9n096dma5dgng7ivuxa5lte": "3ath607ojiolcjzk5cmg6l9",
-    "rc9pm8hdj0p5n222kppsn6n": "9n096dma5dgng7ivuxa5lte",
->>>>>>> a43b1561f7eab8a63e68bb0f2c9f41c78a899d9d
+    "6i7qqwdtwy3srtrrt3fstlx": "3ath607ojiolcjzk5cmg6l9",
+    "rc9pm8hdj0p5n222kppsn6n": "6i7qqwdtwy3srtrrt3fstlx",
     "bkbck58vovjx3bd1qg668zd": null,
     "t864pvufdip3who00ykyeci": "bkbck58vovjx3bd1qg668zd",
     "38b5ozlq96v6a7xyn1a2ajx": "bkbck58vovjx3bd1qg668zd",
