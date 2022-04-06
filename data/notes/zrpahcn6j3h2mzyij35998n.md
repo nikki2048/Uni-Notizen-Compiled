@@ -21,9 +21,10 @@ Es seien $M$ eine Menge, $\bullet$ eine Verknüpfung auf $M, m \in M$, und $A,B 
 $$\begin{equation}
     \bullet : M \times M \rightarrow M, (x,y) \mapsto x \bullet y
 \end{equation}$$
+^monoide_axiome
 Wir nennen $(M, \bullet)$ ein *Monoid*, wenn folgende Axiome gelten:
 1. $(x \bullet y) \bullet z = x \bullet (y \bullet z)$ für alle $x,y,z \in M$
-2. Es existiert ein $e in M$ mit $e \bullet x = x = x \bullet e$ für alle $x \in M$ <br>
+2. Es existiert ein $e \in M$ mit $e \bullet x = x = x \bullet e$ für alle $x \in M$ <br>
 Das Monoid heißt *abelsch* oder *kommutativ*, wenn zusätzlich gilt:
 3. $x \bullet y = y \bullet x$ für alle $x,y \in G$.
 
@@ -49,14 +50,12 @@ Es sei $A$ eine beliebige Menge, $B := \{0,1\}$.
 ## Gruppe
 **Definition:** Ein Monoid $(G, \bullet)$, in dem alle Elemente invertierbar sind, heißt *Gruppe*. D.h. in einer Gruppe gilt:
 
-(M3) Für alle $x \in G$ existiert $x' \in G$ mit $x \bullet x' = e = x' \bullet x$
-
-*M3 = Monoide 3. Axiom*
+([[M3 | #^monoide_axiome]]) Für alle $x \in G$ existiert $x' \in G$ mit $x \bullet x' = e = x' \bullet x$
 
 **Beispiele:**
 - $(\mathbb{Z}, +)$ ist eine abelsche Gruppe.
-- $(\mathbb{N}_0, +)$ ist keine Gruppe, da (M3) nicht gilt. 
-- $(\mathbb{R}, \cdot)$ ist keine Gruppe, da (M3) nicht gilt.
+- $(\mathbb{N}_0, +)$ ist keine Gruppe, da ([[M3 | #^monoide_axiome]]) nicht gilt. 
+- $(\mathbb{R}, \cdot)$ ist keine Gruppe, da ([[M3 | #^monoide_axiome]]) nicht gilt.
 - $(\mathbb{R} \backslash \{0\}, \cdot)$ und $(R_{>0}, \cdot)$ sind abelsche Gruppen. 
 
 ## Untergruppen 

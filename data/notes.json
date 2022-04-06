@@ -10,8 +10,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1649287030538,
-      "created": 1649287030538,
+      "updated": 1649288935940,
+      "created": 1649288935940,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -42,12 +42,12 @@
       "links": [],
       "anchors": {},
       "children": [
-        "gg10du7rlr9f6lmovdxvmb6"
+        "y8qivnx1ettuxu2wav57az3"
       ],
       "parent": null,
       "data": {}
     },
-    "gg10du7rlr9f6lmovdxvmb6": {
+    "y8qivnx1ettuxu2wav57az3": {
       "fname": "tags.my",
       "stub": true,
       "vault": {
@@ -56,9 +56,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1649287030482,
-      "created": 1649287030482,
-      "id": "gg10du7rlr9f6lmovdxvmb6",
+      "updated": 1649288935883,
+      "created": 1649288935883,
+      "id": "y8qivnx1ettuxu2wav57az3",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -105,7 +105,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "gg10du7rlr9f6lmovdxvmb6",
+      "parent": "y8qivnx1ettuxu2wav57az3",
       "data": {}
     },
     "bkbck58vovjx3bd1qg668zd": {
@@ -522,7 +522,7 @@
       "id": "zrpahcn6j3h2mzyij35998n",
       "title": "Gruppen",
       "desc": "",
-      "updated": 1649285329334,
+      "updated": 1649288845812,
       "created": 1649280744306,
       "tags": [
         "ds",
@@ -535,7 +535,7 @@
         "fsPath": "1-semester",
         "name": "1-semester"
       },
-      "contentHash": "2cecd552e57629697e587271a31edc97",
+      "contentHash": "73e54c32193dbbffdb2b4ca2dd4c854c",
       "links": [
         {
           "type": "frontmatterTag",
@@ -564,6 +564,159 @@
           "to": {
             "fname": "tags.gruppen"
           }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "1-semester.ds.algebraische-strukturen.gruppen",
+            "id": "zrpahcn6j3h2mzyij35998n",
+            "vaultName": "1-semester"
+          },
+          "value": "1-semester.ds.algebraische-strukturen.gruppen",
+          "alias": "M3",
+          "position": {
+            "start": {
+              "line": 53,
+              "column": 2,
+              "offset": 2813
+            },
+            "end": {
+              "line": 53,
+              "column": 27,
+              "offset": 2838
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "1-semester.ds.algebraische-strukturen.gruppen",
+            "anchorHeader": "^monoide_axiome"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "1-semester.ds.algebraische-strukturen.gruppen",
+            "id": "zrpahcn6j3h2mzyij35998n",
+            "vaultName": "1-semester"
+          },
+          "value": "1-semester.ds.algebraische-strukturen.gruppen",
+          "alias": "M3",
+          "position": {
+            "start": {
+              "line": 57,
+              "column": 45,
+              "offset": 3024
+            },
+            "end": {
+              "line": 57,
+              "column": 70,
+              "offset": 3049
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "1-semester.ds.algebraische-strukturen.gruppen",
+            "anchorHeader": "^monoide_axiome"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "1-semester.ds.algebraische-strukturen.gruppen",
+            "id": "zrpahcn6j3h2mzyij35998n",
+            "vaultName": "1-semester"
+          },
+          "value": "1-semester.ds.algebraische-strukturen.gruppen",
+          "alias": "M3",
+          "position": {
+            "start": {
+              "line": 58,
+              "column": 47,
+              "offset": 3110
+            },
+            "end": {
+              "line": 58,
+              "column": 72,
+              "offset": 3135
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "1-semester.ds.algebraische-strukturen.gruppen",
+            "anchorHeader": "^monoide_axiome"
+          }
+        },
+        {
+          "from": {
+            "fname": "1-semester.ds.algebraische-strukturen.gruppen",
+            "vaultName": "1-semester"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 53,
+              "column": 2,
+              "offset": 2813
+            },
+            "end": {
+              "line": 53,
+              "column": 27,
+              "offset": 2838
+            },
+            "indent": []
+          },
+          "value": "1-semester.ds.algebraische-strukturen.gruppen",
+          "alias": "M3"
+        },
+        {
+          "from": {
+            "fname": "1-semester.ds.algebraische-strukturen.gruppen",
+            "vaultName": "1-semester"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 57,
+              "column": 45,
+              "offset": 3024
+            },
+            "end": {
+              "line": 57,
+              "column": 70,
+              "offset": 3049
+            },
+            "indent": []
+          },
+          "value": "1-semester.ds.algebraische-strukturen.gruppen",
+          "alias": "M3"
+        },
+        {
+          "from": {
+            "fname": "1-semester.ds.algebraische-strukturen.gruppen",
+            "vaultName": "1-semester"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 58,
+              "column": 47,
+              "offset": 3110
+            },
+            "end": {
+              "line": 58,
+              "column": 72,
+              "offset": 3135
+            },
+            "indent": []
+          },
+          "value": "1-semester.ds.algebraische-strukturen.gruppen",
+          "alias": "M3"
         }
       ],
       "anchors": {
@@ -587,7 +740,7 @@
           "type": "header",
           "text": "Inverse und Einheiten",
           "value": "inverse-und-einheiten",
-          "line": 51,
+          "line": 52,
           "column": 0,
           "depth": 2
         },
@@ -595,7 +748,7 @@
           "type": "header",
           "text": "Gruppe",
           "value": "gruppe",
-          "line": 58,
+          "line": 59,
           "column": 0,
           "depth": 2
         },
@@ -603,9 +756,15 @@
           "type": "header",
           "text": "Untergruppen",
           "value": "untergruppen",
-          "line": 71,
+          "line": 70,
           "column": 0,
           "depth": 2
+        },
+        "^monoide_axiome": {
+          "type": "block",
+          "value": "monoide_axiome",
+          "line": 33,
+          "column": 0
         }
       },
       "children": [],
@@ -758,7 +917,7 @@
       "links": [],
       "anchors": {},
       "children": [
-        "gg10du7rlr9f6lmovdxvmb6"
+        "y8qivnx1ettuxu2wav57az3"
       ],
       "parent": null,
       "data": {},
