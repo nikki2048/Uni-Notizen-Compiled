@@ -10,8 +10,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1649288935940,
-      "created": 1649288935940,
+      "updated": 1649521563873,
+      "created": 1649521563873,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -42,12 +42,12 @@
       "links": [],
       "anchors": {},
       "children": [
-        "y8qivnx1ettuxu2wav57az3"
+        "ms9akbsmac2w0pm9gd9pg0k"
       ],
       "parent": null,
       "data": {}
     },
-    "y8qivnx1ettuxu2wav57az3": {
+    "ms9akbsmac2w0pm9gd9pg0k": {
       "fname": "tags.my",
       "stub": true,
       "vault": {
@@ -56,9 +56,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1649288935883,
-      "created": 1649288935883,
-      "id": "y8qivnx1ettuxu2wav57az3",
+      "updated": 1649521563808,
+      "created": 1649521563808,
+      "id": "ms9akbsmac2w0pm9gd9pg0k",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -105,7 +105,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "y8qivnx1ettuxu2wav57az3",
+      "parent": "ms9akbsmac2w0pm9gd9pg0k",
       "data": {}
     },
     "bkbck58vovjx3bd1qg668zd": {
@@ -162,6 +162,7 @@
       "children": [
         "bwonefjmj0ciwjxzh0v1xwu",
         "38b5ozlq96v6a7xyn1a2ajx",
+        "9axagip3couyrzxrr7174i4",
         "t864pvufdip3who00ykyeci"
       ],
       "parent": null,
@@ -205,15 +206,63 @@
       "parent": "bkbck58vovjx3bd1qg668zd",
       "data": {}
     },
+    "9axagip3couyrzxrr7174i4": {
+      "id": "9axagip3couyrzxrr7174i4",
+      "title": "Fosap",
+      "desc": "",
+      "updated": 1649338540955,
+      "created": 1649338540955,
+      "custom": {},
+      "fname": "2-semester.fosap",
+      "type": "note",
+      "vault": {
+        "fsPath": "2-semester",
+        "name": "2-semester"
+      },
+      "contentHash": "8337525a8e123d699ed8064567a51bb9",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "or5sz8u4bdwidjgjvjr9xs4"
+      ],
+      "parent": "bkbck58vovjx3bd1qg668zd",
+      "data": {}
+    },
+    "or5sz8u4bdwidjgjvjr9xs4": {
+      "id": "or5sz8u4bdwidjgjvjr9xs4",
+      "title": "Einführung",
+      "desc": "",
+      "updated": 1649338787193,
+      "created": 1649338547808,
+      "custom": {},
+      "fname": "2-semester.fosap.einführung",
+      "type": "note",
+      "vault": {
+        "fsPath": "2-semester",
+        "name": "2-semester"
+      },
+      "contentHash": "ec9641a29c2c722f40a9af4f00f61db0",
+      "links": [],
+      "anchors": {
+        "einfürung": {
+          "type": "header",
+          "text": "Einfürung",
+          "value": "einfürung",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "9axagip3couyrzxrr7174i4",
+      "data": {}
+    },
     "38b5ozlq96v6a7xyn1a2ajx": {
       "id": "38b5ozlq96v6a7xyn1a2ajx",
       "title": "Datenstrukturen und Algorithmen",
-      "desc": "",
-      "updated": 1649195719527,
+      "desc": "Notizen zur Vorlesung Datenstrukturen und Algorithmen, SS22",
+      "updated": 1649512023594,
       "created": 1648410215671,
-      "tags": [
-        "other.example"
-      ],
       "custom": {},
       "fname": "2-semester.dsal",
       "type": "note",
@@ -221,25 +270,145 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "f1410742ba418c39e43c1fd6d41347bb",
+      "contentHash": "41b5ccdb16d799ba2fa7e9436be62060",
       "links": [
         {
-          "type": "frontmatterTag",
+          "type": "wiki",
           "from": {
             "fname": "2-semester.dsal",
             "id": "38b5ozlq96v6a7xyn1a2ajx",
             "vaultName": "2-semester"
           },
-          "value": "tags.other.example",
-          "alias": "other.example",
+          "value": "2-semester.dsal.einführung",
+          "alias": "§1 - Organisatorisches",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 3,
+              "offset": 30
+            },
+            "end": {
+              "line": 3,
+              "column": 76,
+              "offset": 103
+            },
+            "indent": []
+          },
           "xvault": false,
+          "sameFile": false,
           "to": {
-            "fname": "tags.other.example"
+            "fname": "2-semester.dsal.einführung",
+            "anchorHeader": "organisatorisches"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-semester.dsal",
+            "id": "38b5ozlq96v6a7xyn1a2ajx",
+            "vaultName": "2-semester"
+          },
+          "value": "2-semester.dsal.einführung",
+          "alias": "§2 - Überblick",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 106
+            },
+            "end": {
+              "line": 4,
+              "column": 60,
+              "offset": 163
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-semester.dsal.einführung",
+            "anchorHeader": "überblick"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-semester.dsal",
+            "id": "38b5ozlq96v6a7xyn1a2ajx",
+            "vaultName": "2-semester"
+          },
+          "value": "2-semester.dsal.datenstrukturen",
+          "alias": "§1 - Abstrakte Datentypen",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 199
+            },
+            "end": {
+              "line": 7,
+              "column": 87,
+              "offset": 283
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-semester.dsal.datenstrukturen",
+            "anchorHeader": "abstrakte-datentypen"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-semester.dsal",
+            "id": "38b5ozlq96v6a7xyn1a2ajx",
+            "vaultName": "2-semester"
+          },
+          "value": "2-semester.dsal.datenstrukturen",
+          "alias": "§2 - Lineare Strukturen",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 286
+            },
+            "end": {
+              "line": 8,
+              "column": 83,
+              "offset": 366
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-semester.dsal.datenstrukturen",
+            "anchorHeader": "lineare-strukturen"
           }
         }
       ],
-      "anchors": {},
+      "anchors": {
+        "kapitel-0---einführung": {
+          "type": "header",
+          "text": "Kapitel 0 - Einführung",
+          "value": "kapitel-0---einführung",
+          "line": 8,
+          "column": 0,
+          "depth": 3
+        },
+        "kapitel-1---datenstrukturen": {
+          "type": "header",
+          "text": "Kapitel 1 - Datenstrukturen",
+          "value": "kapitel-1---datenstrukturen",
+          "line": 12,
+          "column": 0,
+          "depth": 3
+        }
+      },
       "children": [
+        "my86rlgchcjejz3si4qz5aa",
         "9jc0m9repdoaxhrp6z26hai"
       ],
       "parent": "bkbck58vovjx3bd1qg668zd",
@@ -249,7 +418,7 @@
       "id": "9jc0m9repdoaxhrp6z26hai",
       "title": "Einführung",
       "desc": "",
-      "updated": 1649198809447,
+      "updated": 1649511695723,
       "created": 1649195797196,
       "custom": {},
       "fname": "2-semester.dsal.einführung",
@@ -258,38 +427,99 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "7aff0e444282ad11e9a5670d220e2c59",
-      "links": [],
+      "contentHash": "3166869844fcd594808074f939caadeb",
+      "links": [
+        {
+          "from": {
+            "fname": "2-semester.dsal",
+            "vaultName": "2-semester"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 3,
+              "offset": 30
+            },
+            "end": {
+              "line": 3,
+              "column": 76,
+              "offset": 103
+            },
+            "indent": []
+          },
+          "value": "2-semester.dsal.einführung",
+          "alias": "§1 - Organisatorisches"
+        },
+        {
+          "from": {
+            "fname": "2-semester.dsal",
+            "vaultName": "2-semester"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 106
+            },
+            "end": {
+              "line": 4,
+              "column": 60,
+              "offset": 163
+            },
+            "indent": []
+          },
+          "value": "2-semester.dsal.einführung",
+          "alias": "§2 - Überblick"
+        }
+      ],
       "anchors": {
+        "organisatorisches": {
+          "type": "header",
+          "text": "Organisatorisches",
+          "value": "organisatorisches",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "veranstaltungen": {
+          "type": "header",
+          "text": "Veranstaltungen",
+          "value": "veranstaltungen",
+          "line": 8,
+          "column": 0,
+          "depth": 3
+        },
+        "übungsbetrieb": {
+          "type": "header",
+          "text": "Übungsbetrieb",
+          "value": "übungsbetrieb",
+          "line": 16,
+          "column": 0,
+          "depth": 3
+        },
+        "überblick": {
+          "type": "header",
+          "text": "Überblick",
+          "value": "überblick",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        },
         "positionsbestimmung": {
           "type": "header",
           "text": "Positionsbestimmung",
           "value": "positionsbestimmung",
-          "line": 8,
-          "column": 0,
-          "depth": 2
-        },
-        "informationsverarbeitung": {
-          "type": "header",
-          "text": "Informationsverarbeitung",
-          "value": "informationsverarbeitung",
-          "line": 13,
+          "line": 26,
           "column": 0,
           "depth": 3
         },
-        "algorithmen": {
+        "definitionen": {
           "type": "header",
-          "text": "Algorithmen",
-          "value": "algorithmen",
-          "line": 22,
-          "column": 0,
-          "depth": 2
-        },
-        "eigenschaften-donald-knuth": {
-          "type": "header",
-          "text": "Eigenschaften (Donald Knuth)",
-          "value": "eigenschaften-donald-knuth",
-          "line": 27,
+          "text": "Definitionen",
+          "value": "definitionen",
+          "line": 32,
           "column": 0,
           "depth": 3
         },
@@ -297,53 +527,406 @@
           "type": "header",
           "text": "Analyse von Algorithmen",
           "value": "analyse-von-algorithmen",
-          "line": 33,
+          "line": 44,
           "column": 0,
           "depth": 3
         },
-        "top-down-software-entwurf": {
+        "ziele-der-vorlesung": {
           "type": "header",
-          "text": "Top-Down Software-Entwurf",
-          "value": "top-down-software-entwurf",
-          "line": 52,
+          "text": "Ziele der Vorlesung",
+          "value": "ziele-der-vorlesung",
+          "line": 69,
           "column": 0,
           "depth": 3
-        },
-        "software-entwicklung": {
-          "type": "header",
-          "text": "Software-Entwicklung",
-          "value": "software-entwicklung",
-          "line": 63,
-          "column": 0,
-          "depth": 3
-        },
-        "übersicht": {
-          "type": "header",
-          "text": "Übersicht",
-          "value": "übersicht",
-          "line": 71,
-          "column": 0,
-          "depth": 1
         },
         "datenstrukturen": {
           "type": "header",
           "text": "Datenstrukturen",
           "value": "datenstrukturen",
-          "line": 79,
+          "line": 75,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "38b5ozlq96v6a7xyn1a2ajx",
+      "data": {}
+    },
+    "my86rlgchcjejz3si4qz5aa": {
+      "id": "my86rlgchcjejz3si4qz5aa",
+      "title": "Datenstrukturen",
+      "desc": "",
+      "updated": 1649519313161,
+      "created": 1649511646794,
+      "custom": {},
+      "fname": "2-semester.dsal.datenstrukturen",
+      "type": "note",
+      "vault": {
+        "fsPath": "2-semester",
+        "name": "2-semester"
+      },
+      "contentHash": "d907d97977efd4ff658f74baa60ce3b2",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-semester.dsal.datenstrukturen",
+            "id": "my86rlgchcjejz3si4qz5aa",
+            "vaultName": "2-semester"
+          },
+          "value": "2-semester.dsal.datenstrukturen.beispiele",
+          "alias": "Beispiel",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 5,
+              "offset": 630
+            },
+            "end": {
+              "line": 18,
+              "column": 83,
+              "offset": 708
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-semester.dsal.datenstrukturen.beispiele",
+            "anchorHeader": "aufzählungstypen-bool"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-semester.dsal.datenstrukturen",
+            "id": "my86rlgchcjejz3si4qz5aa",
+            "vaultName": "2-semester"
+          },
+          "value": "2-semester.dsal.datenstrukturen.beispiele",
+          "alias": "Beispiel",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 5,
+              "offset": 771
+            },
+            "end": {
+              "line": 21,
+              "column": 83,
+              "offset": 849
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-semester.dsal.datenstrukturen.beispiele",
+            "anchorHeader": "skalare-typen-integer"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-semester.dsal.datenstrukturen",
+            "id": "my86rlgchcjejz3si4qz5aa",
+            "vaultName": "2-semester"
+          },
+          "value": "2-semester.dsal.datenstrukturen.beispiele",
+          "alias": "Beispiel",
+          "position": {
+            "start": {
+              "line": 29,
+              "column": 5,
+              "offset": 1073
+            },
+            "end": {
+              "line": 29,
+              "column": 80,
+              "offset": 1148
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-semester.dsal.datenstrukturen.beispiele",
+            "anchorHeader": "lineare-strukturen"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-semester.dsal.datenstrukturen",
+            "id": "my86rlgchcjejz3si4qz5aa",
+            "vaultName": "2-semester"
+          },
+          "value": "2-semester.dsal.datenstrukturen.beispiele",
+          "alias": "Beispiel",
+          "position": {
+            "start": {
+              "line": 32,
+              "column": 5,
+              "offset": 1181
+            },
+            "end": {
+              "line": 32,
+              "column": 76,
+              "offset": 1252
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-semester.dsal.datenstrukturen.beispiele",
+            "anchorHeader": "baumstrukturen"
+          }
+        },
+        {
+          "from": {
+            "fname": "2-semester.dsal",
+            "vaultName": "2-semester"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 199
+            },
+            "end": {
+              "line": 7,
+              "column": 87,
+              "offset": 283
+            },
+            "indent": []
+          },
+          "value": "2-semester.dsal.datenstrukturen",
+          "alias": "§1 - Abstrakte Datentypen"
+        },
+        {
+          "from": {
+            "fname": "2-semester.dsal",
+            "vaultName": "2-semester"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 286
+            },
+            "end": {
+              "line": 8,
+              "column": 83,
+              "offset": 366
+            },
+            "indent": []
+          },
+          "value": "2-semester.dsal.datenstrukturen",
+          "alias": "§2 - Lineare Strukturen"
+        }
+      ],
+      "anchors": {
+        "abstrakte-datentypen": {
+          "type": "header",
+          "text": "Abstrakte Datentypen",
+          "value": "abstrakte-datentypen",
+          "line": 8,
           "column": 0,
           "depth": 2
         },
-        "algorithmen-1": {
+        "datentypen": {
           "type": "header",
-          "text": "Algorithmen",
-          "value": "algorithmen-1",
-          "line": 87,
+          "text": "Datentypen",
+          "value": "datentypen",
+          "line": 20,
+          "column": 0,
+          "depth": 3
+        },
+        "warum-abstrakt": {
+          "type": "header",
+          "text": "Warum abstrakt?",
+          "value": "warum-abstrakt",
+          "line": 48,
+          "column": 0,
+          "depth": 3
+        },
+        "lineare-strukturen": {
+          "type": "header",
+          "text": "Lineare Strukturen",
+          "value": "lineare-strukturen",
+          "line": 52,
+          "column": 0,
+          "depth": 2
+        },
+        "listen": {
+          "type": "header",
+          "text": "Listen",
+          "value": "listen",
+          "line": 59,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "juv52zk9rjttwfe5kcr64qd"
+      ],
+      "parent": "38b5ozlq96v6a7xyn1a2ajx",
+      "data": {}
+    },
+    "juv52zk9rjttwfe5kcr64qd": {
+      "id": "juv52zk9rjttwfe5kcr64qd",
+      "title": "Datenstrukturen Beispiele",
+      "desc": "",
+      "updated": 1649519162751,
+      "created": 1649513325069,
+      "nav_exclude": true,
+      "custom": {
+        "nav_exclude": true
+      },
+      "fname": "2-semester.dsal.datenstrukturen.beispiele",
+      "type": "note",
+      "vault": {
+        "fsPath": "2-semester",
+        "name": "2-semester"
+      },
+      "contentHash": "7a2b00b2183e79eb4257727c1a53bc79",
+      "links": [
+        {
+          "from": {
+            "fname": "2-semester.dsal.datenstrukturen",
+            "vaultName": "2-semester"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 5,
+              "offset": 630
+            },
+            "end": {
+              "line": 18,
+              "column": 83,
+              "offset": 708
+            },
+            "indent": []
+          },
+          "value": "2-semester.dsal.datenstrukturen.beispiele",
+          "alias": "Beispiel"
+        },
+        {
+          "from": {
+            "fname": "2-semester.dsal.datenstrukturen",
+            "vaultName": "2-semester"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 5,
+              "offset": 771
+            },
+            "end": {
+              "line": 21,
+              "column": 83,
+              "offset": 849
+            },
+            "indent": []
+          },
+          "value": "2-semester.dsal.datenstrukturen.beispiele",
+          "alias": "Beispiel"
+        },
+        {
+          "from": {
+            "fname": "2-semester.dsal.datenstrukturen",
+            "vaultName": "2-semester"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 29,
+              "column": 5,
+              "offset": 1073
+            },
+            "end": {
+              "line": 29,
+              "column": 80,
+              "offset": 1148
+            },
+            "indent": []
+          },
+          "value": "2-semester.dsal.datenstrukturen.beispiele",
+          "alias": "Beispiel"
+        },
+        {
+          "from": {
+            "fname": "2-semester.dsal.datenstrukturen",
+            "vaultName": "2-semester"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 32,
+              "column": 5,
+              "offset": 1181
+            },
+            "end": {
+              "line": 32,
+              "column": 76,
+              "offset": 1252
+            },
+            "indent": []
+          },
+          "value": "2-semester.dsal.datenstrukturen.beispiele",
+          "alias": "Beispiel"
+        }
+      ],
+      "anchors": {
+        "aufzählungstypen-bool": {
+          "type": "header",
+          "text": "Aufzählungstypen (Bool)",
+          "value": "aufzählungstypen-bool",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "skalare-typen-integer": {
+          "type": "header",
+          "text": "Skalare Typen (Integer)",
+          "value": "skalare-typen-integer",
+          "line": 30,
+          "column": 0,
+          "depth": 2
+        },
+        "lineare-strukturen": {
+          "type": "header",
+          "text": "Lineare Strukturen",
+          "value": "lineare-strukturen",
+          "line": 60,
+          "column": 0,
+          "depth": 2
+        },
+        "beispiel-sequenz": {
+          "type": "header",
+          "text": "Beispiel (Sequenz):",
+          "value": "beispiel-sequenz",
+          "line": 68,
+          "column": 0,
+          "depth": 3
+        },
+        "baumstrukturen": {
+          "type": "header",
+          "text": "Baumstrukturen",
+          "value": "baumstrukturen",
+          "line": 83,
           "column": 0,
           "depth": 2
         }
       },
       "children": [],
-      "parent": "38b5ozlq96v6a7xyn1a2ajx",
+      "parent": "my86rlgchcjejz3si4qz5aa",
       "data": {}
     },
     "bwonefjmj0ciwjxzh0v1xwu": {
@@ -522,7 +1105,7 @@
       "id": "zrpahcn6j3h2mzyij35998n",
       "title": "Gruppen",
       "desc": "",
-      "updated": 1649288845812,
+      "updated": 1649338899646,
       "created": 1649280744306,
       "tags": [
         "ds",
@@ -535,7 +1118,7 @@
         "fsPath": "1-semester",
         "name": "1-semester"
       },
-      "contentHash": "73e54c32193dbbffdb2b4ca2dd4c854c",
+      "contentHash": "a6f639caefabc401b1a9a9999a6be7ef",
       "links": [
         {
           "type": "frontmatterTag",
@@ -576,43 +1159,14 @@
           "alias": "M3",
           "position": {
             "start": {
-              "line": 53,
+              "line": 54,
               "column": 2,
-              "offset": 2813
+              "offset": 2814
             },
             "end": {
-              "line": 53,
+              "line": 54,
               "column": 27,
-              "offset": 2838
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "sameFile": false,
-          "to": {
-            "fname": "1-semester.ds.algebraische-strukturen.gruppen",
-            "anchorHeader": "^monoide_axiome"
-          }
-        },
-        {
-          "type": "wiki",
-          "from": {
-            "fname": "1-semester.ds.algebraische-strukturen.gruppen",
-            "id": "zrpahcn6j3h2mzyij35998n",
-            "vaultName": "1-semester"
-          },
-          "value": "1-semester.ds.algebraische-strukturen.gruppen",
-          "alias": "M3",
-          "position": {
-            "start": {
-              "line": 57,
-              "column": 45,
-              "offset": 3024
-            },
-            "end": {
-              "line": 57,
-              "column": 70,
-              "offset": 3049
+              "offset": 2839
             },
             "indent": []
           },
@@ -635,13 +1189,42 @@
           "position": {
             "start": {
               "line": 58,
-              "column": 47,
-              "offset": 3110
+              "column": 45,
+              "offset": 3025
             },
             "end": {
               "line": 58,
+              "column": 70,
+              "offset": 3050
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "1-semester.ds.algebraische-strukturen.gruppen",
+            "anchorHeader": "^monoide_axiome"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "1-semester.ds.algebraische-strukturen.gruppen",
+            "id": "zrpahcn6j3h2mzyij35998n",
+            "vaultName": "1-semester"
+          },
+          "value": "1-semester.ds.algebraische-strukturen.gruppen",
+          "alias": "M3",
+          "position": {
+            "start": {
+              "line": 59,
+              "column": 47,
+              "offset": 3111
+            },
+            "end": {
+              "line": 59,
               "column": 72,
-              "offset": 3135
+              "offset": 3136
             },
             "indent": []
           },
@@ -660,14 +1243,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 53,
+              "line": 54,
               "column": 2,
-              "offset": 2813
+              "offset": 2814
             },
             "end": {
-              "line": 53,
+              "line": 54,
               "column": 27,
-              "offset": 2838
+              "offset": 2839
             },
             "indent": []
           },
@@ -682,14 +1265,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 57,
+              "line": 58,
               "column": 45,
-              "offset": 3024
+              "offset": 3025
             },
             "end": {
-              "line": 57,
+              "line": 58,
               "column": 70,
-              "offset": 3049
+              "offset": 3050
             },
             "indent": []
           },
@@ -704,14 +1287,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 58,
+              "line": 59,
               "column": 47,
-              "offset": 3110
+              "offset": 3111
             },
             "end": {
-              "line": 58,
+              "line": 59,
               "column": 72,
-              "offset": 3135
+              "offset": 3136
             },
             "indent": []
           },
@@ -740,7 +1323,7 @@
           "type": "header",
           "text": "Inverse und Einheiten",
           "value": "inverse-und-einheiten",
-          "line": 52,
+          "line": 53,
           "column": 0,
           "depth": 2
         },
@@ -748,7 +1331,7 @@
           "type": "header",
           "text": "Gruppe",
           "value": "gruppe",
-          "line": 59,
+          "line": 60,
           "column": 0,
           "depth": 2
         },
@@ -756,7 +1339,7 @@
           "type": "header",
           "text": "Untergruppen",
           "value": "untergruppen",
-          "line": 70,
+          "line": 71,
           "column": 0,
           "depth": 2
         },
@@ -888,6 +1471,7 @@
       "children": [
         "bwonefjmj0ciwjxzh0v1xwu",
         "38b5ozlq96v6a7xyn1a2ajx",
+        "9axagip3couyrzxrr7174i4",
         "t864pvufdip3who00ykyeci"
       ],
       "parent": null,
@@ -917,7 +1501,7 @@
       "links": [],
       "anchors": {},
       "children": [
-        "y8qivnx1ettuxu2wav57az3"
+        "ms9akbsmac2w0pm9gd9pg0k"
       ],
       "parent": null,
       "data": {},

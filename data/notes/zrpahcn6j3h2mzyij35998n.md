@@ -1,5 +1,5 @@
 ## Strukturen und Verknüpfungen
-**Definition:** Eine *Verknüpfung* auf einer Menge *M* ist eine Abbildung
+**Definition:** Eine *Verknüpfung* auf einer Menge $M$ ist eine Abbildung
 $$\begin{equation}
     M \times M \rightarrow M
 \end{equation}$$
@@ -22,6 +22,7 @@ $$\begin{equation}
     \bullet : M \times M \rightarrow M, (x,y) \mapsto x \bullet y
 \end{equation}$$
 ^monoide_axiome
+
 Wir nennen $(M, \bullet)$ ein *Monoid*, wenn folgende Axiome gelten:
 1. $(x \bullet y) \bullet z = x \bullet (y \bullet z)$ für alle $x,y,z \in M$
 2. Es existiert ein $e \in M$ mit $e \bullet x = x = x \bullet e$ für alle $x \in M$ <br>

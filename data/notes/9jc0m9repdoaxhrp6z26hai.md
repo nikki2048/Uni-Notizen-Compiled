@@ -1,94 +1,77 @@
+## Organisatorisches
+### Veranstaltungen
+Vorlesungen:
+- Di: 10:30 - 12:00 Uhr (Audimax)
+- Do: 10:30 - 12:00 Uhr (Audimax)
 
-## Positionsbestimmung
-Informatik = Wissenschaft von der **algorithmischen** Problemlösung.
-- Gegeben: Problem(klasse)
-- Gesucht: (automatisierbare) Lösung aus elementaren Schritten
+Globalübung:
+- Fr: 10:30 - 12:00 Uhr (Audimax)
 
-### Informationsverarbeitung
-Repräsentation/Organisation von Daten:
-- Datenstrukturen
+### Übungsbetrieb
+- Übungsblattt `n` wird
+  - ausgegeben am Donnerstag in KW `i`
+  - abgegeben am Freitag in KW `i+1` (vor der Globalübung)
 
-(Schrittweise) Modifikation von Daten:
-- Algorithmen
-
-*Software = Datenstrukturen + Algorithmen*
-
-## Algorithmen
 ```text
-Definition: Schrittweise Modifikation von Daten zur Lösung eines Problems
+75% der Übungspunkte = Bonus von 0,3
 ```
 
-### Eigenschaften (Donald Knuth)
+## Überblick
+### Positionsbestimmung
+
+Informatik = Wissenschaft von der *algorithmischen* Problemlösung
+- Gegeben: Problem(klasse)
+- Gesucht: Lösungsprozedur ((automatisierbare) Lösung aus elementaren Schritten)
+
+### Definitionen
+
+Repräsentation / Organisation von Daten = **Datenstrukturen**
+
+(schrittweise) Modifikation von Daten zur Lösung eines Problems = **Algorithmen**
+
+Eigenschaften eines Algorithmus (nach Donald Knuth):
 - Determinismus
-- Input (# $\geq$ 0)
-- Output (# $\geq$ 1)
+- Input ($\# \geq 0$)
+- Output ($\# \geq 1$)
 - Terminierung
 
 ### Analyse von Algorithmen
-- Partielle Korrektheit
-- Totale Korrektheit
+- Partielle / Totale Korrektheit
 - Komplexität (Speicherplatz, Rechenzeit)
 - Robustheit (bei inkorrekten Eingaben)
 
-- **Komplexität**
-  - Effizienz (Praxistauglichkeit)
-  - Worst / Best / Average case
-  - Wie viel länger dauert die Berechnung, wenn der Input verdoppelt wird?
-  - Gibt es einen besseren Algorithmus? (Problem-Reduktion)
-- **Effizienz**
-  - Problem $\rightarrow$ Ressourcen
-  - Ressourcen $\rightarrow$ Problem
-  - Ressourcen-Typen:
-    - Rechenzeit
-    - Speicherplatz
-    - Energieverbrauch
+Partielle / Totale Korrektheit:
+- Partielle Korrektheit: Liefert das richtige Ergebnis
+- Totale Korrektheit: Liefert das richtige Ergebnis und terminiert immer
 
-### Top-Down Software-Entwurf
-- Spezifiziere Eingabe / Ausgabe
-- Problemlösung
-  - Beziehungen, Referenzen, Daten
-    - Datenstrukturen
-  - Wesentliche Verarbeitungsschritte
-    - Module, Prozeduren, Algorithmen
-- Analyse
-  - Korrektheit, Aufwand / Komplexität
-- Implementieren / Testen / Dokumentieren
+Komplexität:
+- Effizienz (Praxistauglichkeit)
+- Worst / Best / Average case
+- Wie viel länger dauert die Berechnung, wenn der Input verdoppelt wird?
+- Gibt es einen besseren Algorithmus? (Problem-Reduktion)
 
-### Software-Entwicklung
-- Datenstrukturen
-  - Statische Beziehungen
-  - (explizite) funktionale Zusammenhänge
-- Algorithmen
-  - Dynamische Prozesse
-  - (implizite) funktionale Zusammenhänge
+Effizienz:
+- Problem $\rightarrow$ Ressourcen (Wie viele Ressourcen brauche ich, um das Problem zu lösen?)
+- Ressourcen $\rightarrow$ Problem (Welche Problem(klassen) kann ich mit meinen Ressourcen bearbeiten?)
 
-# Übersicht
-- Datenstrukturen
-  - Konzepte
-  - Standard-Typen
-- Algorithmen
-  - Entwurf und Analyse
-  - Standard-Verfahren
+- Ressourcen-Typen:
+  - Rechenzeit
+  - Speicherplatz
+  - Energieverbrauch
+  - usw.
 
-## Datenstrukturen
-- Abstrakte Datentypen
-- Konkrete Datentypen
+### Ziele der Vorlesung
+- Grundlegende Konzepte für den Entwurf und die Analyse von Algorithmen
+- Effiziente Implementierung
+- Komplexitätsanalyse
+- Repertoire an Standardalgorithmen
 
-| Lineare Strukturen | Hierarchische Strukturen | Graph-Strukturen |
-| ------------------ | ------------------------ | -----------------|
-| Arrays <br> Listen <br> Stacks (Keller) <br> Queues (Warteschlangen) | Bäume (Binär, Balanciert, B-, ...) <br> Prioritätswarteschlangen <br> ... | Gerichtet / Ungerichtet <br> Planare Graphen <br> ... |
+### Datenstrukturen
+- Lineare Strukturen
+  - Arrays, Listen, Stacks, Queues
+- Hierarchische Strukturen
+  - Bäume (Binär, Balanciert, B-, ...), Prioritätswarteschlangen
+- Graph Strukturen
+  - Gerichtet / ungerichtet, planare graphen
 
-## Algorithmen
-- Abstrakt
-  - Allgemeine Entwurfsparadigmen
-  - Komplexitätsanalyse
-- Konkret
-  - Sortieren
-  - Suchen
-  - Optimieren
-
-| | **Linear** | **Hierarchisch** | **Graphen** |
-|-|------------|--------------|---------|
-| **Sortieren** | Einfache Verfahren | Höhere Verfahren | Topologisches Sortieren |
-| **Suchen** | Hashing k-Selection | Suchbäume | Traversen |
-| **Optimieren** | Greedy | Dyn. Programming, Divide & Conquer | Spannbäume, kürzeste Pfade Min-Cut |
+![asdasdlawd dasd](/assets/images/09042022-Tabelle.png){width: 100%, max-width: 645px}

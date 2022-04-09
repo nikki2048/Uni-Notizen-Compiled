@@ -85,7 +85,42 @@
           "vaultName": "2-semester",
           "children": [
             {
+              "key": "my86rlgchcjejz3si4qz5aa",
+              "title": "Datenstrukturen",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "2-semester",
+              "children": [
+                {
+                  "key": "juv52zk9rjttwfe5kcr64qd",
+                  "title": "Datenstrukturen Beispiele",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "2-semester",
+                  "navExclude": true,
+                  "children": []
+                }
+              ]
+            },
+            {
               "key": "9jc0m9repdoaxhrp6z26hai",
+              "title": "Einführung",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "2-semester",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "9axagip3couyrzxrr7174i4",
+          "title": "Fosap",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "2-semester",
+          "children": [
+            {
+              "key": "or5sz8u4bdwidjgjvjr9xs4",
               "title": "Einführung",
               "icon": null,
               "hasTitleNumberOutlined": false,
@@ -113,7 +148,7 @@
       "navExclude": true,
       "children": [
         {
-          "key": "y8qivnx1ettuxu2wav57az3",
+          "key": "ms9akbsmac2w0pm9gd9pg0k",
           "title": "My",
           "icon": "plusOutlined",
           "hasTitleNumberOutlined": true,
@@ -135,12 +170,16 @@
   "child2parent": {
     "403": null,
     "3ath607ojiolcjzk5cmg6l9": null,
-    "y8qivnx1ettuxu2wav57az3": "3ath607ojiolcjzk5cmg6l9",
-    "rc9pm8hdj0p5n222kppsn6n": "y8qivnx1ettuxu2wav57az3",
+    "ms9akbsmac2w0pm9gd9pg0k": "3ath607ojiolcjzk5cmg6l9",
+    "rc9pm8hdj0p5n222kppsn6n": "ms9akbsmac2w0pm9gd9pg0k",
     "bkbck58vovjx3bd1qg668zd": null,
     "t864pvufdip3who00ykyeci": "bkbck58vovjx3bd1qg668zd",
+    "9axagip3couyrzxrr7174i4": "bkbck58vovjx3bd1qg668zd",
+    "or5sz8u4bdwidjgjvjr9xs4": "9axagip3couyrzxrr7174i4",
     "38b5ozlq96v6a7xyn1a2ajx": "bkbck58vovjx3bd1qg668zd",
     "9jc0m9repdoaxhrp6z26hai": "38b5ozlq96v6a7xyn1a2ajx",
+    "my86rlgchcjejz3si4qz5aa": "38b5ozlq96v6a7xyn1a2ajx",
+    "juv52zk9rjttwfe5kcr64qd": "my86rlgchcjejz3si4qz5aa",
     "bwonefjmj0ciwjxzh0v1xwu": "bkbck58vovjx3bd1qg668zd",
     "eymm2y1n3gxscio9qsjx252": null,
     "61na7xsawgy96whjhox0nrj": "eymm2y1n3gxscio9qsjx252",
