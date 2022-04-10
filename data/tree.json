@@ -94,26 +94,9 @@
           "vaultName": "2-semester",
           "children": [
             {
-              "key": "8hddzo2d5pnfkaz83e3hb8u",
-              "title": "Datenstrukturen",
-              "icon": "plusOutlined",
-              "hasTitleNumberOutlined": false,
-              "vaultName": "2-semester",
-              "children": [
-                {
-                  "key": "6wc0f2fh7dydtfc4gchjhqt",
-                  "title": "Beispiele",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "2-semester",
-                  "children": []
-                }
-              ]
-            },
-            {
               "key": "5feegv59zjoljzwvpc5h3aj",
               "title": "Kapitel 0 - Einführung",
-              "icon": "plusOutlined",
+              "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "2-semester",
               "children": [
@@ -138,43 +121,34 @@
             {
               "key": "kyzmavx3oxttc793fopnwed",
               "title": "Kapitel 1 - Datenstrukturen",
-              "icon": "plusOutlined",
+              "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "2-semester",
               "children": [
                 {
-                  "key": "is5wn0spdydexnkl2fo8i7k",
-                  "title": "Datenstrukturen",
-                  "icon": "plusOutlined",
+                  "key": "pk9itk69ndclspnsqjig2j5",
+                  "title": "Abstrakte Datentypen",
+                  "icon": null,
                   "hasTitleNumberOutlined": false,
                   "vaultName": "2-semester",
                   "children": [
                     {
-                      "key": "t1wzcxagyj4ulayiq3f5djw",
-                      "title": "Abstrakte Datentypen",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "2-semester",
-                      "children": [
-                        {
-                          "key": "ztx49utfh3rp7yuhnybl3uh",
-                          "title": "Beispiele",
-                          "icon": null,
-                          "hasTitleNumberOutlined": false,
-                          "vaultName": "2-semester",
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "key": "jht3i4bfo7leg8rrn9qjzul",
-                      "title": "Lineare Strukturen",
+                      "key": "ztx49utfh3rp7yuhnybl3uh",
+                      "title": "Beispiele",
                       "icon": null,
                       "hasTitleNumberOutlined": false,
                       "vaultName": "2-semester",
                       "children": []
                     }
                   ]
+                },
+                {
+                  "key": "jht3i4bfo7leg8rrn9qjzul",
+                  "title": "Lineare Strukturen",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "2-semester",
+                  "children": []
                 }
               ]
             }
@@ -216,7 +190,7 @@
       "navExclude": true,
       "children": [
         {
-          "key": "04fgbkpjik7w9y3kxjqnhl4",
+          "key": "gzrb1ve7be2jfjwheonccqz",
           "title": "My",
           "icon": "plusOutlined",
           "hasTitleNumberOutlined": true,
@@ -238,20 +212,17 @@
   "child2parent": {
     "403": null,
     "3ath607ojiolcjzk5cmg6l9": null,
-    "04fgbkpjik7w9y3kxjqnhl4": "3ath607ojiolcjzk5cmg6l9",
-    "rc9pm8hdj0p5n222kppsn6n": "04fgbkpjik7w9y3kxjqnhl4",
+    "gzrb1ve7be2jfjwheonccqz": "3ath607ojiolcjzk5cmg6l9",
+    "rc9pm8hdj0p5n222kppsn6n": "gzrb1ve7be2jfjwheonccqz",
     "bkbck58vovjx3bd1qg668zd": null,
     "t864pvufdip3who00ykyeci": "bkbck58vovjx3bd1qg668zd",
     "9axagip3couyrzxrr7174i4": "bkbck58vovjx3bd1qg668zd",
     "or5sz8u4bdwidjgjvjr9xs4": "9axagip3couyrzxrr7174i4",
     "38b5ozlq96v6a7xyn1a2ajx": "bkbck58vovjx3bd1qg668zd",
-    "8hddzo2d5pnfkaz83e3hb8u": "38b5ozlq96v6a7xyn1a2ajx",
-    "6wc0f2fh7dydtfc4gchjhqt": "8hddzo2d5pnfkaz83e3hb8u",
     "kyzmavx3oxttc793fopnwed": "38b5ozlq96v6a7xyn1a2ajx",
-    "is5wn0spdydexnkl2fo8i7k": "kyzmavx3oxttc793fopnwed",
-    "jht3i4bfo7leg8rrn9qjzul": "is5wn0spdydexnkl2fo8i7k",
-    "t1wzcxagyj4ulayiq3f5djw": "is5wn0spdydexnkl2fo8i7k",
-    "ztx49utfh3rp7yuhnybl3uh": "t1wzcxagyj4ulayiq3f5djw",
+    "jht3i4bfo7leg8rrn9qjzul": "kyzmavx3oxttc793fopnwed",
+    "pk9itk69ndclspnsqjig2j5": "kyzmavx3oxttc793fopnwed",
+    "ztx49utfh3rp7yuhnybl3uh": "pk9itk69ndclspnsqjig2j5",
     "5feegv59zjoljzwvpc5h3aj": "38b5ozlq96v6a7xyn1a2ajx",
     "z35o179teqcx3xvir9xrflg": "5feegv59zjoljzwvpc5h3aj",
     "9jc0m9repdoaxhrp6z26hai": "5feegv59zjoljzwvpc5h3aj",
