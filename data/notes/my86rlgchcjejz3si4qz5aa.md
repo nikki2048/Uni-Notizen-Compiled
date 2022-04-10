@@ -1,4 +1,5 @@
 
+
 ## Abstrakte Datentypen
 Abstrakte Datentypen spezifizieren *Form und Funktionalität* der zu verarbeitenden Daten.
 

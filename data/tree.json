@@ -75,7 +75,16 @@
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "2-semester",
-          "children": []
+          "children": [
+            {
+              "key": "qoxrodgzi66ulet6bvi4ss5",
+              "title": "Einführung",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "2-semester",
+              "children": []
+            }
+          ]
         },
         {
           "key": "38b5ozlq96v6a7xyn1a2ajx",
@@ -85,30 +94,89 @@
           "vaultName": "2-semester",
           "children": [
             {
-              "key": "my86rlgchcjejz3si4qz5aa",
+              "key": "8hddzo2d5pnfkaz83e3hb8u",
               "title": "Datenstrukturen",
-              "icon": null,
+              "icon": "plusOutlined",
               "hasTitleNumberOutlined": false,
               "vaultName": "2-semester",
               "children": [
                 {
-                  "key": "juv52zk9rjttwfe5kcr64qd",
-                  "title": "Datenstrukturen Beispiele",
+                  "key": "6wc0f2fh7dydtfc4gchjhqt",
+                  "title": "Beispiele",
                   "icon": null,
                   "hasTitleNumberOutlined": false,
                   "vaultName": "2-semester",
-                  "navExclude": true,
                   "children": []
                 }
               ]
             },
             {
-              "key": "9jc0m9repdoaxhrp6z26hai",
-              "title": "Einführung",
-              "icon": null,
+              "key": "5feegv59zjoljzwvpc5h3aj",
+              "title": "Kapitel 0 - Einführung",
+              "icon": "plusOutlined",
               "hasTitleNumberOutlined": false,
               "vaultName": "2-semester",
-              "children": []
+              "children": [
+                {
+                  "key": "9jc0m9repdoaxhrp6z26hai",
+                  "title": "Organisatorisches",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "2-semester",
+                  "children": []
+                },
+                {
+                  "key": "z35o179teqcx3xvir9xrflg",
+                  "title": "Überblick",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "2-semester",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "kyzmavx3oxttc793fopnwed",
+              "title": "Kapitel 1 - Datenstrukturen",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "2-semester",
+              "children": [
+                {
+                  "key": "is5wn0spdydexnkl2fo8i7k",
+                  "title": "Datenstrukturen",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "2-semester",
+                  "children": [
+                    {
+                      "key": "t1wzcxagyj4ulayiq3f5djw",
+                      "title": "Abstrakte Datentypen",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "2-semester",
+                      "children": [
+                        {
+                          "key": "ztx49utfh3rp7yuhnybl3uh",
+                          "title": "Beispiele",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "2-semester",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "key": "jht3i4bfo7leg8rrn9qjzul",
+                      "title": "Lineare Strukturen",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "2-semester",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -148,7 +216,7 @@
       "navExclude": true,
       "children": [
         {
-          "key": "ms9akbsmac2w0pm9gd9pg0k",
+          "key": "04fgbkpjik7w9y3kxjqnhl4",
           "title": "My",
           "icon": "plusOutlined",
           "hasTitleNumberOutlined": true,
@@ -170,17 +238,25 @@
   "child2parent": {
     "403": null,
     "3ath607ojiolcjzk5cmg6l9": null,
-    "ms9akbsmac2w0pm9gd9pg0k": "3ath607ojiolcjzk5cmg6l9",
-    "rc9pm8hdj0p5n222kppsn6n": "ms9akbsmac2w0pm9gd9pg0k",
+    "04fgbkpjik7w9y3kxjqnhl4": "3ath607ojiolcjzk5cmg6l9",
+    "rc9pm8hdj0p5n222kppsn6n": "04fgbkpjik7w9y3kxjqnhl4",
     "bkbck58vovjx3bd1qg668zd": null,
     "t864pvufdip3who00ykyeci": "bkbck58vovjx3bd1qg668zd",
     "9axagip3couyrzxrr7174i4": "bkbck58vovjx3bd1qg668zd",
     "or5sz8u4bdwidjgjvjr9xs4": "9axagip3couyrzxrr7174i4",
     "38b5ozlq96v6a7xyn1a2ajx": "bkbck58vovjx3bd1qg668zd",
-    "9jc0m9repdoaxhrp6z26hai": "38b5ozlq96v6a7xyn1a2ajx",
-    "my86rlgchcjejz3si4qz5aa": "38b5ozlq96v6a7xyn1a2ajx",
-    "juv52zk9rjttwfe5kcr64qd": "my86rlgchcjejz3si4qz5aa",
+    "8hddzo2d5pnfkaz83e3hb8u": "38b5ozlq96v6a7xyn1a2ajx",
+    "6wc0f2fh7dydtfc4gchjhqt": "8hddzo2d5pnfkaz83e3hb8u",
+    "kyzmavx3oxttc793fopnwed": "38b5ozlq96v6a7xyn1a2ajx",
+    "is5wn0spdydexnkl2fo8i7k": "kyzmavx3oxttc793fopnwed",
+    "jht3i4bfo7leg8rrn9qjzul": "is5wn0spdydexnkl2fo8i7k",
+    "t1wzcxagyj4ulayiq3f5djw": "is5wn0spdydexnkl2fo8i7k",
+    "ztx49utfh3rp7yuhnybl3uh": "t1wzcxagyj4ulayiq3f5djw",
+    "5feegv59zjoljzwvpc5h3aj": "38b5ozlq96v6a7xyn1a2ajx",
+    "z35o179teqcx3xvir9xrflg": "5feegv59zjoljzwvpc5h3aj",
+    "9jc0m9repdoaxhrp6z26hai": "5feegv59zjoljzwvpc5h3aj",
     "bwonefjmj0ciwjxzh0v1xwu": "bkbck58vovjx3bd1qg668zd",
+    "qoxrodgzi66ulet6bvi4ss5": "bwonefjmj0ciwjxzh0v1xwu",
     "eymm2y1n3gxscio9qsjx252": null,
     "61na7xsawgy96whjhox0nrj": "eymm2y1n3gxscio9qsjx252",
     "4jjxr9kns8s4x6n09sxso0t": "eymm2y1n3gxscio9qsjx252",

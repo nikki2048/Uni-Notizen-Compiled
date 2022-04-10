@@ -1,3 +1,4 @@
+
 ## Strukturen und Verknüpfungen
 **Definition:** Eine *Verknüpfung* auf einer Menge $M$ ist eine Abbildung
 $$\begin{equation}
