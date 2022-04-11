@@ -17,7 +17,7 @@ Der sogenannte *Systembus* verbindet alle Geräte des Computers
 
 ## Rechnerarchitektur
 ### Von-Neumann Rechner
-![Von-Neumann Rechner](assets/images/11042022-VonNeumann.png){width: 100%, max-width: 645px}
+![Von-Neumann Rechner](/assets/images/11042022-VonNeumann.png){width: 100%, max-width: 645px}
 
 ### Prozessor (CPU)
 Verfügt über *Register* zur Ausführung von Operationen
@@ -43,7 +43,7 @@ Als Information interessant. Muss nicht für Klausur gelernt werden.
 | 6: Festplatte (SSD)       | >100 GiB          | ~5.000.000 (250.000)  |
 
 #### Prozessorkerne und Caches
-![Multiple Prozessorkerne](assets/images/11042022-Kerne.png){width: 100%, max-width: 645px}
+![Multiple Prozessorkerne](/assets/images/11042022-Kerne.png){width: 100%, max-width: 645px}
 
 
 #### Prozessor Parallelismus Architekturen
@@ -71,7 +71,7 @@ Hyperthreading, oder Hardware-seitiges Multithreading:
 - Reduzierte Umschaltzeiten (-> Task-Wechsel)
 - Eine CPU-Core erscheint gegenüber dem Betriebssystem wie vier einzelne CPUs, aber mit reduzierter Leistung
 
-![Hyperthreading](assets/images/11042022-Hyperthread.png){width: 100%, max-width: 645px}
+![Hyperthreading](/assets/images/11042022-Hyperthread.png){width: 100%, max-width: 645px}
 
 In dem Bild ist klar erkennbar, dass jede "Hyperthreading-CPU" mehrere Register hat.
 
@@ -87,7 +87,7 @@ In dem Bild ist klar erkennbar, dass jede "Hyperthreading-CPU" mehrere Register 
     - Entlastung der CPU
 
 ### Wesentliche Komponenten des Rechnersystems:
-![Komponenten des Rechnersystems](assets/images/11042022-StrukturRechnersystem.png){width: 100%, max-width: 645px}
+![Komponenten des Rechnersystems](/assets/images/11042022-StrukturRechnersystem.png){width: 100%, max-width: 645px}
 
 ## Betriebssystem
 **Definition:** Ein Betriebssystem ist eine Ansammlung von Programmen, die die effiziente und kofortable Nutzung der Computer-Hardware ermöglichen
