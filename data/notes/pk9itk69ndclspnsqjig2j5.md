@@ -14,10 +14,10 @@ Beispiel (Addition zweier Zeiten):
 - Aufzählungstypen (bool, enum)
   - 0-Dimensional
   - Endlicher Wertebereich (vollständige Spezifikation durch Tabellen möglich)
-  - [[Beispiel | 2-semester.dsal.kapitel-1.datenstrukturen.abstrakte-datentypen.beispiele#aufzählungstypen-bool]]
+  - [[Beispiel | 2-semester.dsal.kapitel-1.abstrakte-datentypen.beispiele#aufzählungstypen-bool]]
 - Skalare Typen (char, int, float, ...)
   - 1-Dimensional
-  - [[Beispiel | 2-semester.dsal.kapitel-1.datenstrukturen.abstrakte-datentypen.beispiele#skalare-typen-integer]]
+  - [[Beispiel | 2-semester.dsal.kapitel-1.abstrakte-datentypen.beispiele#skalare-typen-integer]]
 - Zusammengesetzte Typen (struct, class)
   - n-Dimensional
   - Endliche / Feste zusammengesetzte Typen
@@ -25,10 +25,10 @@ Beispiel (Addition zweier Zeiten):
     - Addressen-Eintrag
 - Lineare Strukturen (list, queue, stack)
   - [1:1] Beziehung
-  - [[Beispiel | 2-semester.dsal.kapitel-1.datenstrukturen.abstrakte-datentypen.beispiele#lineare-strukturen]]
+  - [[Beispiel | 2-semester.dsal.kapitel-1.abstrakte-datentypen.beispiele#lineare-strukturen]]
 - Bäume
   - [1:n] Beziehung
-  - [[Beispiel | 2-semester.dsal.kapitel-1.datenstrukturen.abstrakte-datentypen.beispiele#baumstrukturen]]
+  - [[Beispiel | 2-semester.dsal.kapitel-1.abstrakte-datentypen.beispiele#baumstrukturen]]
 - Graphen - n-m Strukturen
   - [n:m] Beziehung
   - Beliebige *topologische* Struktur

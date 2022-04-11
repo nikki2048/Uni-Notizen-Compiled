@@ -22,17 +22,17 @@ Eigenschaften eines Algorithmus (nach Donald Knuth):
 - Komplexität (Speicherplatz, Rechenzeit)
 - Robustheit (bei inkorrekten Eingaben)
 
-### Partielle / Totale Korrektheit:
+### Partielle / Totale Korrektheit
 - Partielle Korrektheit: Liefert das richtige Ergebnis
 - Totale Korrektheit: Liefert das richtige Ergebnis und terminiert immer
 
-### Komplexität:
+### Komplexität
 - Effizienz (Praxistauglichkeit)
 - Worst / Best / Average case
 - Wie viel länger dauert die Berechnung, wenn der Input verdoppelt wird?
 - Gibt es einen besseren Algorithmus? (Problem-Reduktion)
 
-### Effizienz:
+### Effizienz
 - Problem $\rightarrow$ Ressourcen (Wie viele Ressourcen brauche ich, um das Problem zu lösen?)
 - Ressourcen $\rightarrow$ Problem (Welche Problem(klassen) kann ich mit meinen Ressourcen bearbeiten?)
 

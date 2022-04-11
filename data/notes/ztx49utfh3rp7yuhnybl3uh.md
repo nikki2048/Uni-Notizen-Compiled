@@ -1,4 +1,5 @@
 
+
 ## Aufzählungstypen (Bool)
 0-Dimensional
 
