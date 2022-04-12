@@ -1,5 +1,5 @@
 
-## Einfürung
+## Einführung
 **Syntax:** Schreibweise eines formalen Systems
 
 **Semantik:** klar definierte Bedeutung eines formalen

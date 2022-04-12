@@ -1,4 +1,5 @@
 
+
 Abstrakte Datentypen spezifizieren *Form und Funktionalität* der zu verarbeitenden Daten.
 
 Beispiel (Addition zweier Zeiten):

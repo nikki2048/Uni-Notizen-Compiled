@@ -1,4 +1,5 @@
 
+
 ## Einteilung
 Einteilung des gesamten Computers in vier Bereiche:
 - Computer Hardware; Ansammlung von *Betriebsmitteln*, welche die

@@ -1,4 +1,5 @@
 
+
 - Sequenz $\{x_1,\ldots,x_n\}$ von beliebigen Datenobjekten $x_i$
 - Typische Operationen (Beispiele)
   - Füge $y$ am Anfang / am Ende / hinter $x_i$ ein

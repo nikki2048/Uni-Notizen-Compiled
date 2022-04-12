@@ -1,4 +1,5 @@
 
+
 ## Positionsbestimmung
 
 Informatik = Wissenschaft von der *algorithmischen* Problemlösung

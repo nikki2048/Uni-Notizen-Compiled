@@ -1,0 +1,40 @@
+<h1 id="kapitel-1"><a aria-hidden="true" class="anchor-heading" href="#kapitel-1"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Kapitel 1</h1>
+<h2 id="deterministische-endliche-automate"><a aria-hidden="true" class="anchor-heading" href="#deterministische-endliche-automate"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Deterministische Endliche Automate</h2>
+<p><strong>Sprache:</strong> Menge aller Wörter, die einen Automaten zum Endzustand bringen</p>
+<p><strong>Alphabet:</strong> Buchstaben, Symbole (Σ), Σ* Menge aller Wörter über Alphabet</p>
+<p><strong>Wort:</strong> Endliche Folge von Zeichen, Ɛ: leeres Wort</p>
+<p><strong>Lauf:</strong> Auswertung eines Wortes auf einem Automaten</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Wichtige Symbole</th><th>Beschreibung</th></tr></thead><tbody><tr><td><span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>∑</mo></mrow><annotation encoding="application/x-tex">\sum</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mop op-symbol small-op" style="position:relative;top:0em;">∑</span></span></span></span></span>*</td><td>Menge aller Wörter eines Alphabets</td></tr><tr><td><span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>ϵ</mi></mrow><annotation encoding="application/x-tex">\epsilon</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">ϵ</span></span></span></span></span></td><td>leeres Wort</td></tr></tbody></table>
+<hr>
+<p><strong>DFA's Formal</strong>: 5-Tupel (Q, Σ, δ, q0, F)</p>
+<ol>
+<li>Q: Menge aller Zustände </li>
+<li>Σ:  Eingabealphabet </li>
+<li>δ: Q x Σ -> Q (Transitionsfunktion)</li>
+<li>q0 ∈ Q:  Anfangszustand </li>
+<li>F:  Menge aller Endzustände </li>
+</ol>
+<hr>
+<p><strong>Wichtig:</strong></p>
+<ul>
+<li>leere Sprache ∅ hat <strong>kein</strong> Inhalt</li>
+<li>Sprache {Ɛ} hat <strong>ein</strong> Element (das leere Wort) als Inhalt</li>
+</ul>
+<hr>

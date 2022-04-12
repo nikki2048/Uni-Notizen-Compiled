@@ -10,8 +10,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1649708611329,
-      "created": 1649708611329,
+      "updated": 1649796857240,
+      "created": 1649796857240,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -42,12 +42,12 @@
       "links": [],
       "anchors": {},
       "children": [
-        "5y6ecdoe4a9icrczsp66ljn"
+        "ovk7whw0byrxqqwqpg0f80y"
       ],
       "parent": null,
       "data": {}
     },
-    "5y6ecdoe4a9icrczsp66ljn": {
+    "ovk7whw0byrxqqwqpg0f80y": {
       "fname": "tags.my",
       "stub": true,
       "vault": {
@@ -56,9 +56,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1649708611195,
-      "created": 1649708611195,
-      "id": "5y6ecdoe4a9icrczsp66ljn",
+      "updated": 1649796857137,
+      "created": 1649796857138,
+      "id": "ovk7whw0byrxqqwqpg0f80y",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -105,7 +105,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "5y6ecdoe4a9icrczsp66ljn",
+      "parent": "ovk7whw0byrxqqwqpg0f80y",
       "data": {}
     },
     "bkbck58vovjx3bd1qg668zd": {
@@ -210,7 +210,7 @@
       "id": "9axagip3couyrzxrr7174i4",
       "title": "Fosap",
       "desc": "",
-      "updated": 1649338540955,
+      "updated": 1649782785224,
       "created": 1649338540955,
       "custom": {},
       "fname": "2-semester.fosap",
@@ -219,20 +219,71 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "973dd8fe16acf8f809337df719973aa7",
+      "contentHash": "16314522e4240d2240a812fa8a5c2277",
       "links": [],
       "anchors": {},
       "children": [
-        "or5sz8u4bdwidjgjvjr9xs4"
+        "or5sz8u4bdwidjgjvjr9xs4",
+        "rg1kl6ogcgvpt5ja5qo9olk",
+        "oyeymky03urwuqfmh1nwnvw"
       ],
       "parent": "bkbck58vovjx3bd1qg668zd",
+      "data": {}
+    },
+    "oyeymky03urwuqfmh1nwnvw": {
+      "id": "oyeymky03urwuqfmh1nwnvw",
+      "title": "Kapitel 1",
+      "desc": "",
+      "updated": 1649786355080,
+      "created": 1649784246857,
+      "custom": {},
+      "fname": "2-semester.fosap.kapitel-1",
+      "type": "note",
+      "vault": {
+        "fsPath": "2-semester",
+        "name": "2-semester"
+      },
+      "contentHash": "538fdd9ff7982c45b4e7b5f803284d9c",
+      "links": [],
+      "anchors": {
+        "deterministische-endliche-automate": {
+          "type": "header",
+          "text": "Deterministische Endliche Automate",
+          "value": "deterministische-endliche-automate",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "9axagip3couyrzxrr7174i4",
+      "data": {}
+    },
+    "rg1kl6ogcgvpt5ja5qo9olk": {
+      "id": "rg1kl6ogcgvpt5ja5qo9olk",
+      "title": "Kapitel 0",
+      "desc": "",
+      "updated": 1649783193375,
+      "created": 1649783124887,
+      "custom": {},
+      "fname": "2-semester.fosap.kapitel-0",
+      "type": "note",
+      "vault": {
+        "fsPath": "2-semester",
+        "name": "2-semester"
+      },
+      "contentHash": "62ef0cfd6f864a922d09ed5b0306b55b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "9axagip3couyrzxrr7174i4",
       "data": {}
     },
     "or5sz8u4bdwidjgjvjr9xs4": {
       "id": "or5sz8u4bdwidjgjvjr9xs4",
       "title": "Einführung",
       "desc": "",
-      "updated": 1649338787193,
+      "updated": 1649784247021,
       "created": 1649338547808,
       "custom": {},
       "fname": "2-semester.fosap.einführung",
@@ -241,13 +292,13 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "a4c18b0ec1654576c9d535e13807c164",
+      "contentHash": "f508a0cf8b748d16b7963cb37c34a6df",
       "links": [],
       "anchors": {
-        "einfürung": {
+        "einführung": {
           "type": "header",
-          "text": "Einfürung",
-          "value": "einfürung",
+          "text": "Einführung",
+          "value": "einführung",
           "line": 7,
           "column": 0,
           "depth": 2
@@ -270,7 +321,7 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "918fbeb37128700bebcb4d32f6185963",
+      "contentHash": "10b22a61ca5bb15ff6847676663f77a3",
       "links": [
         {
           "type": "wiki",
@@ -285,12 +336,12 @@
             "start": {
               "line": 3,
               "column": 3,
-              "offset": 30
+              "offset": 32
             },
             "end": {
               "line": 3,
               "column": 73,
-              "offset": 100
+              "offset": 102
             },
             "indent": []
           },
@@ -313,12 +364,12 @@
             "start": {
               "line": 4,
               "column": 3,
-              "offset": 103
+              "offset": 106
             },
             "end": {
               "line": 4,
               "column": 57,
-              "offset": 157
+              "offset": 160
             },
             "indent": []
           },
@@ -341,12 +392,12 @@
             "start": {
               "line": 7,
               "column": 3,
-              "offset": 193
+              "offset": 199
             },
             "end": {
               "line": 7,
               "column": 81,
-              "offset": 271
+              "offset": 277
             },
             "indent": []
           },
@@ -369,12 +420,12 @@
             "start": {
               "line": 8,
               "column": 3,
-              "offset": 274
+              "offset": 281
             },
             "end": {
               "line": 8,
               "column": 77,
-              "offset": 348
+              "offset": 355
             },
             "indent": []
           },
@@ -423,7 +474,7 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "fa1c8f659eaa6a4b75ba0f2168b67643",
+      "contentHash": "1d5044d0ceba9e6a404a402fa91f2030",
       "links": [],
       "anchors": {},
       "children": [
@@ -446,7 +497,7 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "cb34d41210d971de49a3a9ba96d59771",
+      "contentHash": "86884d021f19f9237b0a59f7de3a7dc1",
       "links": [
         {
           "from": {
@@ -458,12 +509,12 @@
             "start": {
               "line": 8,
               "column": 3,
-              "offset": 274
+              "offset": 281
             },
             "end": {
               "line": 8,
               "column": 77,
-              "offset": 348
+              "offset": 355
             },
             "indent": []
           },
@@ -498,7 +549,7 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "08d4e0bc10cc4eee1c62d5c1e5d55ad3",
+      "contentHash": "9459d1c593da473e8608273132f34fc9",
       "links": [
         {
           "type": "wiki",
@@ -513,12 +564,12 @@
             "start": {
               "line": 17,
               "column": 5,
-              "offset": 605
+              "offset": 621
             },
             "end": {
               "line": 17,
               "column": 98,
-              "offset": 698
+              "offset": 714
             },
             "indent": []
           },
@@ -542,12 +593,12 @@
             "start": {
               "line": 20,
               "column": 5,
-              "offset": 761
+              "offset": 780
             },
             "end": {
               "line": 20,
               "column": 98,
-              "offset": 854
+              "offset": 873
             },
             "indent": []
           },
@@ -571,12 +622,12 @@
             "start": {
               "line": 28,
               "column": 5,
-              "offset": 1078
+              "offset": 1105
             },
             "end": {
               "line": 28,
               "column": 95,
-              "offset": 1168
+              "offset": 1195
             },
             "indent": []
           },
@@ -600,12 +651,12 @@
             "start": {
               "line": 31,
               "column": 5,
-              "offset": 1201
+              "offset": 1231
             },
             "end": {
               "line": 31,
               "column": 91,
-              "offset": 1287
+              "offset": 1317
             },
             "indent": []
           },
@@ -626,12 +677,12 @@
             "start": {
               "line": 7,
               "column": 3,
-              "offset": 193
+              "offset": 199
             },
             "end": {
               "line": 7,
               "column": 81,
-              "offset": 271
+              "offset": 277
             },
             "indent": []
           },
@@ -691,12 +742,12 @@
             "start": {
               "line": 17,
               "column": 5,
-              "offset": 605
+              "offset": 621
             },
             "end": {
               "line": 17,
               "column": 98,
-              "offset": 698
+              "offset": 714
             },
             "indent": []
           },
@@ -713,12 +764,12 @@
             "start": {
               "line": 20,
               "column": 5,
-              "offset": 761
+              "offset": 780
             },
             "end": {
               "line": 20,
               "column": 98,
-              "offset": 854
+              "offset": 873
             },
             "indent": []
           },
@@ -735,12 +786,12 @@
             "start": {
               "line": 28,
               "column": 5,
-              "offset": 1078
+              "offset": 1105
             },
             "end": {
               "line": 28,
               "column": 95,
-              "offset": 1168
+              "offset": 1195
             },
             "indent": []
           },
@@ -757,12 +808,12 @@
             "start": {
               "line": 31,
               "column": 5,
-              "offset": 1201
+              "offset": 1231
             },
             "end": {
               "line": 31,
               "column": 91,
-              "offset": 1287
+              "offset": 1317
             },
             "indent": []
           },
@@ -829,7 +880,7 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "8913e0195e9d9863ad754b6308e7f866",
+      "contentHash": "599b462b6e07ebabffc4fb8af6967861",
       "links": [],
       "anchors": {},
       "children": [
@@ -852,7 +903,7 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "232fb05631579b6fd61ffb7d2e82bbeb",
+      "contentHash": "6165245c8e474a438f239d093374619a",
       "links": [
         {
           "from": {
@@ -864,12 +915,12 @@
             "start": {
               "line": 4,
               "column": 3,
-              "offset": 103
+              "offset": 106
             },
             "end": {
               "line": 4,
               "column": 57,
-              "offset": 157
+              "offset": 160
             },
             "indent": []
           },
@@ -975,12 +1026,12 @@
             "start": {
               "line": 3,
               "column": 3,
-              "offset": 30
+              "offset": 32
             },
             "end": {
               "line": 3,
               "column": 73,
-              "offset": 100
+              "offset": 102
             },
             "indent": []
           },
@@ -1023,7 +1074,7 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "97f10502592b441e65ffc043e2971ebe",
+      "contentHash": "1bbdd6910e8b61b78ee72c8a80cd4b5d",
       "links": [
         {
           "type": "wiki",
@@ -1038,12 +1089,12 @@
             "start": {
               "line": 3,
               "column": 3,
-              "offset": 30
+              "offset": 32
             },
             "end": {
               "line": 3,
               "column": 67,
-              "offset": 94
+              "offset": 96
             },
             "indent": []
           },
@@ -1066,12 +1117,12 @@
             "start": {
               "line": 6,
               "column": 3,
-              "offset": 151
+              "offset": 156
             },
             "end": {
               "line": 6,
               "column": 72,
-              "offset": 220
+              "offset": 225
             },
             "indent": []
           },
@@ -1120,7 +1171,7 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "1c622979cce7b037b7d1032a771c2159",
+      "contentHash": "6c05059c07f196dcbeefac1742e77a5d",
       "links": [],
       "anchors": {},
       "children": [
@@ -1142,7 +1193,7 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "eb0edc3157ca798f94f57701640f91c4",
+      "contentHash": "cb8029b13d88e220644eee66f7afef0e",
       "links": [
         {
           "from": {
@@ -1154,12 +1205,12 @@
             "start": {
               "line": 6,
               "column": 3,
-              "offset": 151
+              "offset": 156
             },
             "end": {
               "line": 6,
               "column": 72,
-              "offset": 220
+              "offset": 225
             },
             "indent": []
           },
@@ -1290,7 +1341,7 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "1712212421876997a54ba38f9e7e3c05",
+      "contentHash": "0c9fb397a9de809872e9482b75ac009b",
       "links": [],
       "anchors": {},
       "children": [
@@ -1315,7 +1366,7 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "2c168f2f17eb5b1bfc88dfa2736fd2ee",
+      "contentHash": "88fd6ac124c098b19408b54f2096fd52",
       "links": [
         {
           "from": {
@@ -1327,12 +1378,12 @@
             "start": {
               "line": 3,
               "column": 3,
-              "offset": 30
+              "offset": 32
             },
             "end": {
               "line": 3,
               "column": 67,
-              "offset": 94
+              "offset": 96
             },
             "indent": []
           },
@@ -1831,7 +1882,7 @@
       "links": [],
       "anchors": {},
       "children": [
-        "5y6ecdoe4a9icrczsp66ljn"
+        "ovk7whw0byrxqqwqpg0f80y"
       ],
       "parent": null,
       "data": {},

@@ -195,6 +195,22 @@
               "hasTitleNumberOutlined": false,
               "vaultName": "2-semester",
               "children": []
+            },
+            {
+              "key": "rg1kl6ogcgvpt5ja5qo9olk",
+              "title": "Kapitel 0",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "2-semester",
+              "children": []
+            },
+            {
+              "key": "oyeymky03urwuqfmh1nwnvw",
+              "title": "Kapitel 1",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "2-semester",
+              "children": []
             }
           ]
         },
@@ -217,7 +233,7 @@
       "navExclude": true,
       "children": [
         {
-          "key": "5y6ecdoe4a9icrczsp66ljn",
+          "key": "ovk7whw0byrxqqwqpg0f80y",
           "title": "My",
           "icon": "plusOutlined",
           "hasTitleNumberOutlined": true,
@@ -239,11 +255,13 @@
   "child2parent": {
     "403": null,
     "3ath607ojiolcjzk5cmg6l9": null,
-    "5y6ecdoe4a9icrczsp66ljn": "3ath607ojiolcjzk5cmg6l9",
-    "rc9pm8hdj0p5n222kppsn6n": "5y6ecdoe4a9icrczsp66ljn",
+    "ovk7whw0byrxqqwqpg0f80y": "3ath607ojiolcjzk5cmg6l9",
+    "rc9pm8hdj0p5n222kppsn6n": "ovk7whw0byrxqqwqpg0f80y",
     "bkbck58vovjx3bd1qg668zd": null,
     "t864pvufdip3who00ykyeci": "bkbck58vovjx3bd1qg668zd",
     "9axagip3couyrzxrr7174i4": "bkbck58vovjx3bd1qg668zd",
+    "oyeymky03urwuqfmh1nwnvw": "9axagip3couyrzxrr7174i4",
+    "rg1kl6ogcgvpt5ja5qo9olk": "9axagip3couyrzxrr7174i4",
     "or5sz8u4bdwidjgjvjr9xs4": "9axagip3couyrzxrr7174i4",
     "38b5ozlq96v6a7xyn1a2ajx": "bkbck58vovjx3bd1qg668zd",
     "kyzmavx3oxttc793fopnwed": "38b5ozlq96v6a7xyn1a2ajx",
