@@ -170,6 +170,14 @@
                   ]
                 },
                 {
+                  "key": "kx39btkgqe9quln7zedsd6j",
+                  "title": "Bäume",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "2-semester",
+                  "children": []
+                },
+                {
                   "key": "jht3i4bfo7leg8rrn9qjzul",
                   "title": "Lineare Strukturen",
                   "icon": null,
@@ -189,7 +197,7 @@
           "vaultName": "2-semester",
           "children": [
             {
-              "key": "or5sz8u4bdwidjgjvjr9xs4",
+              "key": "97my1i9uc81qhonkhogcp4f",
               "title": "Einführung",
               "icon": null,
               "hasTitleNumberOutlined": false,
@@ -202,7 +210,16 @@
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "2-semester",
-              "children": []
+              "children": [
+                {
+                  "key": "fbbc4chc1o7pv5hgihcchch",
+                  "title": "Organisatorisches",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "2-semester",
+                  "children": []
+                }
+              ]
             },
             {
               "key": "oyeymky03urwuqfmh1nwnvw",
@@ -210,7 +227,16 @@
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "2-semester",
-              "children": []
+              "children": [
+                {
+                  "key": "oae6h4yojm78g07qmvo6uim",
+                  "title": "Deterministische Endliche Automate",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "2-semester",
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -233,7 +259,7 @@
       "navExclude": true,
       "children": [
         {
-          "key": "9h0td479xve12elqm9dch4r",
+          "key": "9o6rrfaewvrqfb0zi4mn7ci",
           "title": "My",
           "icon": "plusOutlined",
           "hasTitleNumberOutlined": true,
@@ -255,17 +281,20 @@
   "child2parent": {
     "403": null,
     "3ath607ojiolcjzk5cmg6l9": null,
-    "9h0td479xve12elqm9dch4r": "3ath607ojiolcjzk5cmg6l9",
-    "rc9pm8hdj0p5n222kppsn6n": "9h0td479xve12elqm9dch4r",
+    "9o6rrfaewvrqfb0zi4mn7ci": "3ath607ojiolcjzk5cmg6l9",
+    "rc9pm8hdj0p5n222kppsn6n": "9o6rrfaewvrqfb0zi4mn7ci",
     "bkbck58vovjx3bd1qg668zd": null,
     "t864pvufdip3who00ykyeci": "bkbck58vovjx3bd1qg668zd",
     "9axagip3couyrzxrr7174i4": "bkbck58vovjx3bd1qg668zd",
     "oyeymky03urwuqfmh1nwnvw": "9axagip3couyrzxrr7174i4",
+    "oae6h4yojm78g07qmvo6uim": "oyeymky03urwuqfmh1nwnvw",
     "rg1kl6ogcgvpt5ja5qo9olk": "9axagip3couyrzxrr7174i4",
-    "or5sz8u4bdwidjgjvjr9xs4": "9axagip3couyrzxrr7174i4",
+    "fbbc4chc1o7pv5hgihcchch": "rg1kl6ogcgvpt5ja5qo9olk",
+    "97my1i9uc81qhonkhogcp4f": "9axagip3couyrzxrr7174i4",
     "38b5ozlq96v6a7xyn1a2ajx": "bkbck58vovjx3bd1qg668zd",
     "kyzmavx3oxttc793fopnwed": "38b5ozlq96v6a7xyn1a2ajx",
     "jht3i4bfo7leg8rrn9qjzul": "kyzmavx3oxttc793fopnwed",
+    "kx39btkgqe9quln7zedsd6j": "kyzmavx3oxttc793fopnwed",
     "pk9itk69ndclspnsqjig2j5": "kyzmavx3oxttc793fopnwed",
     "ztx49utfh3rp7yuhnybl3uh": "pk9itk69ndclspnsqjig2j5",
     "5feegv59zjoljzwvpc5h3aj": "38b5ozlq96v6a7xyn1a2ajx",

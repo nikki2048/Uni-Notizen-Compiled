@@ -10,8 +10,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1650031555806,
-      "created": 1650031555806,
+      "updated": 1650392160241,
+      "created": 1650392160241,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -42,12 +42,12 @@
       "links": [],
       "anchors": {},
       "children": [
-        "9h0td479xve12elqm9dch4r"
+        "9o6rrfaewvrqfb0zi4mn7ci"
       ],
       "parent": null,
       "data": {}
     },
-    "9h0td479xve12elqm9dch4r": {
+    "9o6rrfaewvrqfb0zi4mn7ci": {
       "fname": "tags.my",
       "stub": true,
       "vault": {
@@ -56,9 +56,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1650031555697,
-      "created": 1650031555697,
-      "id": "9h0td479xve12elqm9dch4r",
+      "updated": 1650392160182,
+      "created": 1650392160182,
+      "id": "9o6rrfaewvrqfb0zi4mn7ci",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -105,7 +105,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "9h0td479xve12elqm9dch4r",
+      "parent": "9o6rrfaewvrqfb0zi4mn7ci",
       "data": {}
     },
     "bkbck58vovjx3bd1qg668zd": {
@@ -210,7 +210,7 @@
       "id": "9axagip3couyrzxrr7174i4",
       "title": "Fosap",
       "desc": "",
-      "updated": 1649782785224,
+      "updated": 1650365697871,
       "created": 1649338540955,
       "custom": {},
       "fname": "2-semester.fosap",
@@ -219,11 +219,85 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "16314522e4240d2240a812fa8a5c2277",
-      "links": [],
-      "anchors": {},
+      "contentHash": "4988be45298c2c5074641ba1b47e7786",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-semester.fosap",
+            "id": "9axagip3couyrzxrr7174i4",
+            "vaultName": "2-semester"
+          },
+          "value": "2-semester.fosap.kapitel-0.organisatorisches",
+          "alias": "§1 - Organisatorisches",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 3,
+              "offset": 32
+            },
+            "end": {
+              "line": 3,
+              "column": 74,
+              "offset": 103
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-semester.fosap.kapitel-0.organisatorisches"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-semester.fosap",
+            "id": "9axagip3couyrzxrr7174i4",
+            "vaultName": "2-semester"
+          },
+          "value": "2-semester.fosap.kapitel-1.dea",
+          "alias": "§1 - Deterministische Endliche Automaten",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 130
+            },
+            "end": {
+              "line": 6,
+              "column": 78,
+              "offset": 205
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-semester.fosap.kapitel-1.dea"
+          }
+        }
+      ],
+      "anchors": {
+        "kapitel-0---einführung": {
+          "type": "header",
+          "text": "Kapitel 0 - Einführung",
+          "value": "kapitel-0---einführung",
+          "line": 8,
+          "column": 0,
+          "depth": 3
+        },
+        "kapitel-1---": {
+          "type": "header",
+          "text": "Kapitel 1 - ???",
+          "value": "kapitel-1---",
+          "line": 11,
+          "column": 0,
+          "depth": 3
+        }
+      },
       "children": [
-        "or5sz8u4bdwidjgjvjr9xs4",
+        "97my1i9uc81qhonkhogcp4f",
         "rg1kl6ogcgvpt5ja5qo9olk",
         "oyeymky03urwuqfmh1nwnvw"
       ],
@@ -234,7 +308,7 @@
       "id": "oyeymky03urwuqfmh1nwnvw",
       "title": "Kapitel 1",
       "desc": "",
-      "updated": 1650031531728,
+      "updated": 1650365503168,
       "created": 1649784246857,
       "custom": {},
       "fname": "2-semester.fosap.kapitel-1",
@@ -243,27 +317,63 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "b7342b2ae6cb7bd478a627ee5f625469",
+      "contentHash": "8568831ad24ee5623b88e24b23dab9e9",
       "links": [],
-      "anchors": {
-        "deterministische-endliche-automate": {
-          "type": "header",
-          "text": "Deterministische Endliche Automate",
-          "value": "deterministische-endliche-automate",
-          "line": 8,
-          "column": 0,
-          "depth": 2
-        }
-      },
-      "children": [],
+      "anchors": {},
+      "children": [
+        "oae6h4yojm78g07qmvo6uim"
+      ],
       "parent": "9axagip3couyrzxrr7174i4",
+      "data": {}
+    },
+    "oae6h4yojm78g07qmvo6uim": {
+      "id": "oae6h4yojm78g07qmvo6uim",
+      "title": "Deterministische Endliche Automate",
+      "desc": "",
+      "updated": 1650365531465,
+      "created": 1650365486170,
+      "custom": {},
+      "fname": "2-semester.fosap.kapitel-1.dea",
+      "type": "note",
+      "vault": {
+        "fsPath": "2-semester",
+        "name": "2-semester"
+      },
+      "contentHash": "22108341779973d29a383ac8cc02649b",
+      "links": [
+        {
+          "from": {
+            "fname": "2-semester.fosap",
+            "vaultName": "2-semester"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 130
+            },
+            "end": {
+              "line": 6,
+              "column": 78,
+              "offset": 205
+            },
+            "indent": []
+          },
+          "value": "2-semester.fosap.kapitel-1.dea",
+          "alias": "§1 - Deterministische Endliche Automaten"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "oyeymky03urwuqfmh1nwnvw",
       "data": {}
     },
     "rg1kl6ogcgvpt5ja5qo9olk": {
       "id": "rg1kl6ogcgvpt5ja5qo9olk",
       "title": "Kapitel 0",
       "desc": "",
-      "updated": 1649783193375,
+      "updated": 1650365577578,
       "created": 1649783124887,
       "custom": {},
       "fname": "2-semester.fosap.kapitel-0",
@@ -272,19 +382,59 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "62ef0cfd6f864a922d09ed5b0306b55b",
+      "contentHash": "ae532d8aa01e53e558ac3817d0f6b017",
       "links": [],
       "anchors": {},
-      "children": [],
+      "children": [
+        "fbbc4chc1o7pv5hgihcchch"
+      ],
       "parent": "9axagip3couyrzxrr7174i4",
       "data": {}
     },
-    "or5sz8u4bdwidjgjvjr9xs4": {
-      "id": "or5sz8u4bdwidjgjvjr9xs4",
-      "title": "Einführung",
+    "fbbc4chc1o7pv5hgihcchch": {
+      "id": "fbbc4chc1o7pv5hgihcchch",
+      "title": "Organisatorisches",
       "desc": "",
-      "updated": 1649784247021,
-      "created": 1649338547808,
+      "updated": 1650365597934,
+      "created": 1650365597934,
+      "custom": {},
+      "fname": "2-semester.fosap.kapitel-0.organisatorisches",
+      "type": "note",
+      "vault": {
+        "fsPath": "2-semester",
+        "name": "2-semester"
+      },
+      "contentHash": "749d4559b03fea196e9686beea119abf",
+      "links": [
+        {
+          "from": {
+            "fname": "2-semester.fosap",
+            "vaultName": "2-semester"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 3,
+              "offset": 32
+            },
+            "end": {
+              "line": 3,
+              "column": 74,
+              "offset": 103
+            },
+            "indent": []
+          },
+          "value": "2-semester.fosap.kapitel-0.organisatorisches",
+          "alias": "§1 - Organisatorisches"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "rg1kl6ogcgvpt5ja5qo9olk",
+      "data": {}
+    },
+    "97my1i9uc81qhonkhogcp4f": {
       "custom": {},
       "fname": "2-semester.fosap.einführung",
       "type": "note",
@@ -292,27 +442,23 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "f508a0cf8b748d16b7963cb37c34a6df",
+      "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
+      "updated": 1650392160181,
+      "created": 1650392160181,
+      "id": "97my1i9uc81qhonkhogcp4f",
+      "desc": "",
       "links": [],
-      "anchors": {
-        "einführung": {
-          "type": "header",
-          "text": "Einführung",
-          "value": "einführung",
-          "line": 7,
-          "column": 0,
-          "depth": 2
-        }
-      },
+      "anchors": {},
       "children": [],
       "parent": "9axagip3couyrzxrr7174i4",
-      "data": {}
+      "data": {},
+      "title": "Einführung"
     },
     "38b5ozlq96v6a7xyn1a2ajx": {
       "id": "38b5ozlq96v6a7xyn1a2ajx",
       "title": "Datenstrukturen und Algorithmen",
       "desc": "Notizen zur Vorlesung Datenstrukturen und Algorithmen, SS22",
-      "updated": 1649600708211,
+      "updated": 1650365879346,
       "created": 1648410215671,
       "custom": {},
       "fname": "2-semester.dsal",
@@ -321,7 +467,7 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "10b22a61ca5bb15ff6847676663f77a3",
+      "contentHash": "ae0db6b49b806501eb82435ea294f012",
       "links": [
         {
           "type": "wiki",
@@ -434,6 +580,34 @@
           "to": {
             "fname": "2-semester.dsal.kapitel-1.lineare-strukturen"
           }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "2-semester.dsal",
+            "id": "38b5ozlq96v6a7xyn1a2ajx",
+            "vaultName": "2-semester"
+          },
+          "value": "2-semester.dsal.kapitel-1.bäume",
+          "alias": "§3 - Bäume",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 359
+            },
+            "end": {
+              "line": 9,
+              "column": 49,
+              "offset": 405
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "2-semester.dsal.kapitel-1.bäume"
+          }
         }
       ],
       "anchors": {
@@ -479,6 +653,7 @@
       "anchors": {},
       "children": [
         "pk9itk69ndclspnsqjig2j5",
+        "kx39btkgqe9quln7zedsd6j",
         "jht3i4bfo7leg8rrn9qjzul"
       ],
       "parent": "38b5ozlq96v6a7xyn1a2ajx",
@@ -488,7 +663,7 @@
       "id": "jht3i4bfo7leg8rrn9qjzul",
       "title": "Lineare Strukturen",
       "desc": "",
-      "updated": 1649603079829,
+      "updated": 1650392084839,
       "created": 1649599844956,
       "custom": {},
       "fname": "2-semester.dsal.kapitel-1.lineare-strukturen",
@@ -497,7 +672,7 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "86884d021f19f9237b0a59f7de3a7dc1",
+      "contentHash": "ae08fe1b202104a95ebbeb82e6ce38a8",
       "links": [
         {
           "from": {
@@ -530,6 +705,98 @@
           "line": 14,
           "column": 0,
           "depth": 2
+        },
+        "doppelt-verkettete-listen": {
+          "type": "header",
+          "text": "Doppelt verkettete Listen",
+          "value": "doppelt-verkettete-listen",
+          "line": 81,
+          "column": 0,
+          "depth": 3
+        },
+        "warteschlangen": {
+          "type": "header",
+          "text": "Warteschlangen",
+          "value": "warteschlangen",
+          "line": 94,
+          "column": 0,
+          "depth": 2
+        },
+        "stack": {
+          "type": "header",
+          "text": "Stack",
+          "value": "stack",
+          "line": 131,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "kyzmavx3oxttc793fopnwed",
+      "data": {}
+    },
+    "kx39btkgqe9quln7zedsd6j": {
+      "id": "kx39btkgqe9quln7zedsd6j",
+      "title": "Bäume",
+      "desc": "",
+      "updated": 1650366826200,
+      "created": 1650365843797,
+      "custom": {},
+      "fname": "2-semester.dsal.kapitel-1.bäume",
+      "type": "note",
+      "vault": {
+        "fsPath": "2-semester",
+        "name": "2-semester"
+      },
+      "contentHash": "592e3cbf70e9e6eacabdbef119bcbe54",
+      "links": [
+        {
+          "from": {
+            "fname": "2-semester.dsal",
+            "vaultName": "2-semester"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 359
+            },
+            "end": {
+              "line": 9,
+              "column": 49,
+              "offset": 405
+            },
+            "indent": []
+          },
+          "value": "2-semester.dsal.kapitel-1.bäume",
+          "alias": "§3 - Bäume"
+        }
+      ],
+      "anchors": {
+        "überblick": {
+          "type": "header",
+          "text": "Überblick",
+          "value": "überblick",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "definition": {
+          "type": "header",
+          "text": "Definition",
+          "value": "definition",
+          "line": 19,
+          "column": 0,
+          "depth": 3
+        },
+        "abgeleitete-eigenschaften": {
+          "type": "header",
+          "text": "Abgeleitete Eigenschaften",
+          "value": "abgeleitete-eigenschaften",
+          "line": 45,
+          "column": 0,
+          "depth": 3
         }
       },
       "children": [],
@@ -1882,7 +2149,7 @@
       "links": [],
       "anchors": {},
       "children": [
-        "9h0td479xve12elqm9dch4r"
+        "9o6rrfaewvrqfb0zi4mn7ci"
       ],
       "parent": null,
       "data": {},
