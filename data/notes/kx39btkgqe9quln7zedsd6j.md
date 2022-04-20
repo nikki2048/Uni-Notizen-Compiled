@@ -1,4 +1,5 @@
 
+
 ## Überblick
 **Hierarchische Datenstruktur:**
 - Zusammenfassung von Gruppen

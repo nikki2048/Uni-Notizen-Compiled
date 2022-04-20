@@ -10,8 +10,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1650392160241,
-      "created": 1650392160241,
+      "updated": 1650482496044,
+      "created": 1650482496044,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -42,12 +42,12 @@
       "links": [],
       "anchors": {},
       "children": [
-        "9o6rrfaewvrqfb0zi4mn7ci"
+        "ukoqe6so7cvftwqrcod368w"
       ],
       "parent": null,
       "data": {}
     },
-    "9o6rrfaewvrqfb0zi4mn7ci": {
+    "ukoqe6so7cvftwqrcod368w": {
       "fname": "tags.my",
       "stub": true,
       "vault": {
@@ -56,9 +56,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1650392160182,
-      "created": 1650392160182,
-      "id": "9o6rrfaewvrqfb0zi4mn7ci",
+      "updated": 1650482495934,
+      "created": 1650482495934,
+      "id": "ukoqe6so7cvftwqrcod368w",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -105,7 +105,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "9o6rrfaewvrqfb0zi4mn7ci",
+      "parent": "ukoqe6so7cvftwqrcod368w",
       "data": {}
     },
     "bkbck58vovjx3bd1qg668zd": {
@@ -297,7 +297,7 @@
         }
       },
       "children": [
-        "97my1i9uc81qhonkhogcp4f",
+        "9bi5jlhyb64dc9443pftq66",
         "rg1kl6ogcgvpt5ja5qo9olk",
         "oyeymky03urwuqfmh1nwnvw"
       ],
@@ -434,7 +434,7 @@
       "parent": "rg1kl6ogcgvpt5ja5qo9olk",
       "data": {}
     },
-    "97my1i9uc81qhonkhogcp4f": {
+    "9bi5jlhyb64dc9443pftq66": {
       "custom": {},
       "fname": "2-semester.fosap.einführung",
       "type": "note",
@@ -443,9 +443,9 @@
         "name": "2-semester"
       },
       "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
-      "updated": 1650392160181,
-      "created": 1650392160181,
-      "id": "97my1i9uc81qhonkhogcp4f",
+      "updated": 1650482495933,
+      "created": 1650482495933,
+      "id": "9bi5jlhyb64dc9443pftq66",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -654,25 +654,98 @@
       "children": [
         "pk9itk69ndclspnsqjig2j5",
         "kx39btkgqe9quln7zedsd6j",
-        "jht3i4bfo7leg8rrn9qjzul"
+        "jht3i4bfo7leg8rrn9qjzul",
+        "y003fq29tc6o4ha8j5jwcgm"
       ],
       "parent": "38b5ozlq96v6a7xyn1a2ajx",
+      "data": {}
+    },
+    "y003fq29tc6o4ha8j5jwcgm": {
+      "id": "y003fq29tc6o4ha8j5jwcgm",
+      "title": "Prioritätschlangen",
+      "desc": "",
+      "updated": 1650482424779,
+      "created": 1650480198897,
+      "custom": {},
+      "fname": "2-semester.dsal.kapitel-1.prioritätschlangen",
+      "type": "note",
+      "vault": {
+        "fsPath": "2-semester",
+        "name": "2-semester"
+      },
+      "contentHash": "b2f94047f20332caea35fab8865e7cce",
+      "links": [],
+      "anchors": {
+        "überblick": {
+          "type": "header",
+          "text": "Überblick",
+          "value": "überblick",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "spezifikationen": {
+          "type": "header",
+          "text": "Spezifikationen",
+          "value": "spezifikationen",
+          "line": 16,
+          "column": 0,
+          "depth": 3
+        },
+        "heap-bedingungen": {
+          "type": "header",
+          "text": "Heap-Bedingungen",
+          "value": "heap-bedingungen",
+          "line": 29,
+          "column": 0,
+          "depth": 3
+        },
+        "effiziente-implementierung": {
+          "type": "header",
+          "text": "Effiziente Implementierung",
+          "value": "effiziente-implementierung",
+          "line": 48,
+          "column": 0,
+          "depth": 3
+        },
+        "einfügen-in-eine-prioritätschlangen": {
+          "type": "header",
+          "text": "Einfügen in eine Prioritätschlangen",
+          "value": "einfügen-in-eine-prioritätschlangen",
+          "line": 64,
+          "column": 0,
+          "depth": 4
+        },
+        "löschen-aus-einer-prioritätschlange": {
+          "type": "header",
+          "text": "Löschen aus einer Prioritätschlange",
+          "value": "löschen-aus-einer-prioritätschlange",
+          "line": 69,
+          "column": 0,
+          "depth": 4
+        }
+      },
+      "children": [],
+      "parent": "kyzmavx3oxttc793fopnwed",
       "data": {}
     },
     "jht3i4bfo7leg8rrn9qjzul": {
       "id": "jht3i4bfo7leg8rrn9qjzul",
       "title": "Lineare Strukturen",
       "desc": "",
-      "updated": 1650392084839,
+      "updated": 1650406350206,
       "created": 1649599844956,
-      "custom": {},
+      "nav_order": 2,
+      "custom": {
+        "nav_order": 2
+      },
       "fname": "2-semester.dsal.kapitel-1.lineare-strukturen",
       "type": "note",
       "vault": {
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "ae08fe1b202104a95ebbeb82e6ce38a8",
+      "contentHash": "6d99596300c69356853b7ee9ad06390c",
       "links": [
         {
           "from": {
@@ -702,7 +775,7 @@
           "type": "header",
           "text": "Listen",
           "value": "listen",
-          "line": 14,
+          "line": 15,
           "column": 0,
           "depth": 2
         },
@@ -710,7 +783,7 @@
           "type": "header",
           "text": "Doppelt verkettete Listen",
           "value": "doppelt-verkettete-listen",
-          "line": 81,
+          "line": 82,
           "column": 0,
           "depth": 3
         },
@@ -718,7 +791,7 @@
           "type": "header",
           "text": "Warteschlangen",
           "value": "warteschlangen",
-          "line": 94,
+          "line": 95,
           "column": 0,
           "depth": 2
         },
@@ -726,7 +799,7 @@
           "type": "header",
           "text": "Stack",
           "value": "stack",
-          "line": 131,
+          "line": 132,
           "column": 0,
           "depth": 2
         }
@@ -739,16 +812,19 @@
       "id": "kx39btkgqe9quln7zedsd6j",
       "title": "Bäume",
       "desc": "",
-      "updated": 1650366826200,
+      "updated": 1650406354670,
       "created": 1650365843797,
-      "custom": {},
+      "nav_order": 3,
+      "custom": {
+        "nav_order": 3
+      },
       "fname": "2-semester.dsal.kapitel-1.bäume",
       "type": "note",
       "vault": {
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "592e3cbf70e9e6eacabdbef119bcbe54",
+      "contentHash": "be417076f7a3ad811ecb770a972d8057",
       "links": [
         {
           "from": {
@@ -778,7 +854,7 @@
           "type": "header",
           "text": "Überblick",
           "value": "überblick",
-          "line": 8,
+          "line": 9,
           "column": 0,
           "depth": 2
         },
@@ -786,7 +862,7 @@
           "type": "header",
           "text": "Definition",
           "value": "definition",
-          "line": 19,
+          "line": 20,
           "column": 0,
           "depth": 3
         },
@@ -794,7 +870,7 @@
           "type": "header",
           "text": "Abgeleitete Eigenschaften",
           "value": "abgeleitete-eigenschaften",
-          "line": 45,
+          "line": 46,
           "column": 0,
           "depth": 3
         }
@@ -807,16 +883,19 @@
       "id": "pk9itk69ndclspnsqjig2j5",
       "title": "Abstrakte Datentypen",
       "desc": "",
-      "updated": 1649706465684,
+      "updated": 1650406340086,
       "created": 1649600425962,
-      "custom": {},
+      "nav_order": 1,
+      "custom": {
+        "nav_order": 1
+      },
       "fname": "2-semester.dsal.kapitel-1.abstrakte-datentypen",
       "type": "note",
       "vault": {
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "9459d1c593da473e8608273132f34fc9",
+      "contentHash": "3b06bab21065dd1cbb3a66bf81465e75",
       "links": [
         {
           "type": "wiki",
@@ -962,7 +1041,7 @@
           "type": "header",
           "text": "Datentypen",
           "value": "datentypen",
-          "line": 19,
+          "line": 20,
           "column": 0,
           "depth": 2
         },
@@ -970,7 +1049,7 @@
           "type": "header",
           "text": "Warum abstrakt?",
           "value": "warum-abstrakt",
-          "line": 47,
+          "line": 48,
           "column": 0,
           "depth": 2
         }
@@ -2149,7 +2228,7 @@
       "links": [],
       "anchors": {},
       "children": [
-        "9o6rrfaewvrqfb0zi4mn7ci"
+        "ukoqe6so7cvftwqrcod368w"
       ],
       "parent": null,
       "data": {},

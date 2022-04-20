@@ -170,6 +170,14 @@
                   ]
                 },
                 {
+                  "key": "jht3i4bfo7leg8rrn9qjzul",
+                  "title": "Lineare Strukturen",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "2-semester",
+                  "children": []
+                },
+                {
                   "key": "kx39btkgqe9quln7zedsd6j",
                   "title": "Bäume",
                   "icon": null,
@@ -178,8 +186,8 @@
                   "children": []
                 },
                 {
-                  "key": "jht3i4bfo7leg8rrn9qjzul",
-                  "title": "Lineare Strukturen",
+                  "key": "y003fq29tc6o4ha8j5jwcgm",
+                  "title": "Prioritätschlangen",
                   "icon": null,
                   "hasTitleNumberOutlined": false,
                   "vaultName": "2-semester",
@@ -197,7 +205,7 @@
           "vaultName": "2-semester",
           "children": [
             {
-              "key": "97my1i9uc81qhonkhogcp4f",
+              "key": "9bi5jlhyb64dc9443pftq66",
               "title": "Einführung",
               "icon": null,
               "hasTitleNumberOutlined": false,
@@ -259,7 +267,7 @@
       "navExclude": true,
       "children": [
         {
-          "key": "9o6rrfaewvrqfb0zi4mn7ci",
+          "key": "ukoqe6so7cvftwqrcod368w",
           "title": "My",
           "icon": "plusOutlined",
           "hasTitleNumberOutlined": true,
@@ -281,8 +289,8 @@
   "child2parent": {
     "403": null,
     "3ath607ojiolcjzk5cmg6l9": null,
-    "9o6rrfaewvrqfb0zi4mn7ci": "3ath607ojiolcjzk5cmg6l9",
-    "rc9pm8hdj0p5n222kppsn6n": "9o6rrfaewvrqfb0zi4mn7ci",
+    "ukoqe6so7cvftwqrcod368w": "3ath607ojiolcjzk5cmg6l9",
+    "rc9pm8hdj0p5n222kppsn6n": "ukoqe6so7cvftwqrcod368w",
     "bkbck58vovjx3bd1qg668zd": null,
     "t864pvufdip3who00ykyeci": "bkbck58vovjx3bd1qg668zd",
     "9axagip3couyrzxrr7174i4": "bkbck58vovjx3bd1qg668zd",
@@ -290,9 +298,10 @@
     "oae6h4yojm78g07qmvo6uim": "oyeymky03urwuqfmh1nwnvw",
     "rg1kl6ogcgvpt5ja5qo9olk": "9axagip3couyrzxrr7174i4",
     "fbbc4chc1o7pv5hgihcchch": "rg1kl6ogcgvpt5ja5qo9olk",
-    "97my1i9uc81qhonkhogcp4f": "9axagip3couyrzxrr7174i4",
+    "9bi5jlhyb64dc9443pftq66": "9axagip3couyrzxrr7174i4",
     "38b5ozlq96v6a7xyn1a2ajx": "bkbck58vovjx3bd1qg668zd",
     "kyzmavx3oxttc793fopnwed": "38b5ozlq96v6a7xyn1a2ajx",
+    "y003fq29tc6o4ha8j5jwcgm": "kyzmavx3oxttc793fopnwed",
     "jht3i4bfo7leg8rrn9qjzul": "kyzmavx3oxttc793fopnwed",
     "kx39btkgqe9quln7zedsd6j": "kyzmavx3oxttc793fopnwed",
     "pk9itk69ndclspnsqjig2j5": "kyzmavx3oxttc793fopnwed",
