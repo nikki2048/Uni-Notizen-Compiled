@@ -1,6 +1,6 @@
 
 
-//TODO: Ordentliche Gliederung
+## Begriffdefinitionen: 
 
 **Sprache:** Menge aller Wörter, die einen Automaten zum Endzustand bringen
 
@@ -20,6 +20,8 @@
 | $\epsilon$ | leeres Wort |
 
 ---
+
+## DFA's Definition:
 
 **DFA's Formal**: 5-Tupel (Q, Σ, δ, q0, F)
 

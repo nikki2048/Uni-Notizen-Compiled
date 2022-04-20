@@ -10,8 +10,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1650482496044,
-      "created": 1650482496044,
+      "updated": 1650483017097,
+      "created": 1650483017097,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -42,12 +42,12 @@
       "links": [],
       "anchors": {},
       "children": [
-        "ukoqe6so7cvftwqrcod368w"
+        "4oxcdskml9bjoox0g75dk44"
       ],
       "parent": null,
       "data": {}
     },
-    "ukoqe6so7cvftwqrcod368w": {
+    "4oxcdskml9bjoox0g75dk44": {
       "fname": "tags.my",
       "stub": true,
       "vault": {
@@ -56,9 +56,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1650482495934,
-      "created": 1650482495934,
-      "id": "ukoqe6so7cvftwqrcod368w",
+      "updated": 1650483016972,
+      "created": 1650483016972,
+      "id": "4oxcdskml9bjoox0g75dk44",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -105,7 +105,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "ukoqe6so7cvftwqrcod368w",
+      "parent": "4oxcdskml9bjoox0g75dk44",
       "data": {}
     },
     "bkbck58vovjx3bd1qg668zd": {
@@ -219,7 +219,7 @@
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "4988be45298c2c5074641ba1b47e7786",
+      "contentHash": "254820e5767fa6556ee5875d85c9edb6",
       "links": [
         {
           "type": "wiki",
@@ -256,7 +256,7 @@
             "id": "9axagip3couyrzxrr7174i4",
             "vaultName": "2-semester"
           },
-          "value": "2-semester.fosap.kapitel-1.dea",
+          "value": "2-semester.fosap.kapitel-1-dea",
           "alias": "§1 - Deterministische Endliche Automaten",
           "position": {
             "start": {
@@ -274,7 +274,7 @@
           "xvault": false,
           "sameFile": false,
           "to": {
-            "fname": "2-semester.fosap.kapitel-1.dea"
+            "fname": "2-semester.fosap.kapitel-1-dea"
           }
         }
       ],
@@ -297,49 +297,27 @@
         }
       },
       "children": [
-        "9bi5jlhyb64dc9443pftq66",
+        "ed02o09sepgy0sxtni5iskn",
         "rg1kl6ogcgvpt5ja5qo9olk",
-        "oyeymky03urwuqfmh1nwnvw"
+        "oae6h4yojm78g07qmvo6uim"
       ],
       "parent": "bkbck58vovjx3bd1qg668zd",
       "data": {}
     },
-    "oyeymky03urwuqfmh1nwnvw": {
-      "id": "oyeymky03urwuqfmh1nwnvw",
-      "title": "Kapitel 1",
-      "desc": "",
-      "updated": 1650365503168,
-      "created": 1649784246857,
-      "custom": {},
-      "fname": "2-semester.fosap.kapitel-1",
-      "type": "note",
-      "vault": {
-        "fsPath": "2-semester",
-        "name": "2-semester"
-      },
-      "contentHash": "8568831ad24ee5623b88e24b23dab9e9",
-      "links": [],
-      "anchors": {},
-      "children": [
-        "oae6h4yojm78g07qmvo6uim"
-      ],
-      "parent": "9axagip3couyrzxrr7174i4",
-      "data": {}
-    },
     "oae6h4yojm78g07qmvo6uim": {
       "id": "oae6h4yojm78g07qmvo6uim",
-      "title": "Deterministische Endliche Automate",
+      "title": "Kapitel 1-Deterministische Endliche Automaten",
       "desc": "",
-      "updated": 1650365531465,
+      "updated": 1650482828488,
       "created": 1650365486170,
       "custom": {},
-      "fname": "2-semester.fosap.kapitel-1.dea",
+      "fname": "2-semester.fosap.kapitel-1-dea",
       "type": "note",
       "vault": {
         "fsPath": "2-semester",
         "name": "2-semester"
       },
-      "contentHash": "22108341779973d29a383ac8cc02649b",
+      "contentHash": "6d6303fb385a20955b29ea9cebb1b2d2",
       "links": [
         {
           "from": {
@@ -360,13 +338,30 @@
             },
             "indent": []
           },
-          "value": "2-semester.fosap.kapitel-1.dea",
+          "value": "2-semester.fosap.kapitel-1-dea",
           "alias": "§1 - Deterministische Endliche Automaten"
         }
       ],
-      "anchors": {},
+      "anchors": {
+        "begriffdefinitionen": {
+          "type": "header",
+          "text": "Begriffdefinitionen:",
+          "value": "begriffdefinitionen",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "dfas-definition": {
+          "type": "header",
+          "text": "DFA's Definition:",
+          "value": "dfas-definition",
+          "line": 29,
+          "column": 0,
+          "depth": 2
+        }
+      },
       "children": [],
-      "parent": "oyeymky03urwuqfmh1nwnvw",
+      "parent": "9axagip3couyrzxrr7174i4",
       "data": {}
     },
     "rg1kl6ogcgvpt5ja5qo9olk": {
@@ -434,7 +429,7 @@
       "parent": "rg1kl6ogcgvpt5ja5qo9olk",
       "data": {}
     },
-    "9bi5jlhyb64dc9443pftq66": {
+    "ed02o09sepgy0sxtni5iskn": {
       "custom": {},
       "fname": "2-semester.fosap.einführung",
       "type": "note",
@@ -443,9 +438,9 @@
         "name": "2-semester"
       },
       "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
-      "updated": 1650482495933,
-      "created": 1650482495933,
-      "id": "9bi5jlhyb64dc9443pftq66",
+      "updated": 1650483016971,
+      "created": 1650483016971,
+      "id": "ed02o09sepgy0sxtni5iskn",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -2228,7 +2223,7 @@
       "links": [],
       "anchors": {},
       "children": [
-        "ukoqe6so7cvftwqrcod368w"
+        "4oxcdskml9bjoox0g75dk44"
       ],
       "parent": null,
       "data": {},

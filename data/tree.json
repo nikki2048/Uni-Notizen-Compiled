@@ -205,7 +205,7 @@
           "vaultName": "2-semester",
           "children": [
             {
-              "key": "9bi5jlhyb64dc9443pftq66",
+              "key": "ed02o09sepgy0sxtni5iskn",
               "title": "Einführung",
               "icon": null,
               "hasTitleNumberOutlined": false,
@@ -230,21 +230,12 @@
               ]
             },
             {
-              "key": "oyeymky03urwuqfmh1nwnvw",
-              "title": "Kapitel 1",
+              "key": "oae6h4yojm78g07qmvo6uim",
+              "title": "Kapitel 1-Deterministische Endliche Automaten",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "2-semester",
-              "children": [
-                {
-                  "key": "oae6h4yojm78g07qmvo6uim",
-                  "title": "Deterministische Endliche Automate",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "2-semester",
-                  "children": []
-                }
-              ]
+              "children": []
             }
           ]
         },
@@ -267,7 +258,7 @@
       "navExclude": true,
       "children": [
         {
-          "key": "ukoqe6so7cvftwqrcod368w",
+          "key": "4oxcdskml9bjoox0g75dk44",
           "title": "My",
           "icon": "plusOutlined",
           "hasTitleNumberOutlined": true,
@@ -289,16 +280,15 @@
   "child2parent": {
     "403": null,
     "3ath607ojiolcjzk5cmg6l9": null,
-    "ukoqe6so7cvftwqrcod368w": "3ath607ojiolcjzk5cmg6l9",
-    "rc9pm8hdj0p5n222kppsn6n": "ukoqe6so7cvftwqrcod368w",
+    "4oxcdskml9bjoox0g75dk44": "3ath607ojiolcjzk5cmg6l9",
+    "rc9pm8hdj0p5n222kppsn6n": "4oxcdskml9bjoox0g75dk44",
     "bkbck58vovjx3bd1qg668zd": null,
     "t864pvufdip3who00ykyeci": "bkbck58vovjx3bd1qg668zd",
     "9axagip3couyrzxrr7174i4": "bkbck58vovjx3bd1qg668zd",
-    "oyeymky03urwuqfmh1nwnvw": "9axagip3couyrzxrr7174i4",
-    "oae6h4yojm78g07qmvo6uim": "oyeymky03urwuqfmh1nwnvw",
+    "oae6h4yojm78g07qmvo6uim": "9axagip3couyrzxrr7174i4",
     "rg1kl6ogcgvpt5ja5qo9olk": "9axagip3couyrzxrr7174i4",
     "fbbc4chc1o7pv5hgihcchch": "rg1kl6ogcgvpt5ja5qo9olk",
-    "9bi5jlhyb64dc9443pftq66": "9axagip3couyrzxrr7174i4",
+    "ed02o09sepgy0sxtni5iskn": "9axagip3couyrzxrr7174i4",
     "38b5ozlq96v6a7xyn1a2ajx": "bkbck58vovjx3bd1qg668zd",
     "kyzmavx3oxttc793fopnwed": "38b5ozlq96v6a7xyn1a2ajx",
     "y003fq29tc6o4ha8j5jwcgm": "kyzmavx3oxttc793fopnwed",
