@@ -67,3 +67,5 @@ $(ii) prio(S[i]) \geq max(prio(S[2i]), prio(S[2i+1])$
 - Von Vorne nach Hinten vertauschen damit obige Bedingung wieder erfüllt ist
 
 > $2^{Index}$ bzw. $2^{Index+1} -1$ des aktuellen Elementes, um auf die Kindknoten zu gelangen
+
+

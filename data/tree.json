@@ -186,6 +186,14 @@
                   "children": []
                 },
                 {
+                  "key": "daqw32ezp68cqdpri3q0zux",
+                  "title": "Graphen",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "2-semester",
+                  "children": []
+                },
+                {
                   "key": "y003fq29tc6o4ha8j5jwcgm",
                   "title": "Prioritätschlangen",
                   "icon": null,
@@ -205,7 +213,7 @@
           "vaultName": "2-semester",
           "children": [
             {
-              "key": "ed02o09sepgy0sxtni5iskn",
+              "key": "35rf3mykaxz3w1ckcwd1583",
               "title": "Einführung",
               "icon": null,
               "hasTitleNumberOutlined": false,
@@ -258,7 +266,7 @@
       "navExclude": true,
       "children": [
         {
-          "key": "4oxcdskml9bjoox0g75dk44",
+          "key": "sijsx7jr4fz5kmukamir7i7",
           "title": "My",
           "icon": "plusOutlined",
           "hasTitleNumberOutlined": true,
@@ -280,19 +288,20 @@
   "child2parent": {
     "403": null,
     "3ath607ojiolcjzk5cmg6l9": null,
-    "4oxcdskml9bjoox0g75dk44": "3ath607ojiolcjzk5cmg6l9",
-    "rc9pm8hdj0p5n222kppsn6n": "4oxcdskml9bjoox0g75dk44",
+    "sijsx7jr4fz5kmukamir7i7": "3ath607ojiolcjzk5cmg6l9",
+    "rc9pm8hdj0p5n222kppsn6n": "sijsx7jr4fz5kmukamir7i7",
     "bkbck58vovjx3bd1qg668zd": null,
     "t864pvufdip3who00ykyeci": "bkbck58vovjx3bd1qg668zd",
     "9axagip3couyrzxrr7174i4": "bkbck58vovjx3bd1qg668zd",
     "oae6h4yojm78g07qmvo6uim": "9axagip3couyrzxrr7174i4",
     "rg1kl6ogcgvpt5ja5qo9olk": "9axagip3couyrzxrr7174i4",
     "fbbc4chc1o7pv5hgihcchch": "rg1kl6ogcgvpt5ja5qo9olk",
-    "ed02o09sepgy0sxtni5iskn": "9axagip3couyrzxrr7174i4",
+    "35rf3mykaxz3w1ckcwd1583": "9axagip3couyrzxrr7174i4",
     "38b5ozlq96v6a7xyn1a2ajx": "bkbck58vovjx3bd1qg668zd",
     "kyzmavx3oxttc793fopnwed": "38b5ozlq96v6a7xyn1a2ajx",
     "y003fq29tc6o4ha8j5jwcgm": "kyzmavx3oxttc793fopnwed",
     "jht3i4bfo7leg8rrn9qjzul": "kyzmavx3oxttc793fopnwed",
+    "daqw32ezp68cqdpri3q0zux": "kyzmavx3oxttc793fopnwed",
     "kx39btkgqe9quln7zedsd6j": "kyzmavx3oxttc793fopnwed",
     "pk9itk69ndclspnsqjig2j5": "kyzmavx3oxttc793fopnwed",
     "ztx49utfh3rp7yuhnybl3uh": "pk9itk69ndclspnsqjig2j5",
